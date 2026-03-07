@@ -1742,3 +1742,2382 @@
 2026-02-27 19:02:10,202 | INFO | Posture alert triggered.
 2026-02-27 19:02:10,210 | INFO | User requested shutdown.
 2026-02-27 19:02:10,686 | INFO | System Shutdown Complete.
+2026-03-07 15:03:37,105 | INFO | Starting DeskGuardian Application...
+2026-03-07 15:03:37,139 | INFO | Using existing user: DefaultUser (ID: 1)
+2026-03-07 15:03:37,536 | INFO | System Initializing...
+2026-03-07 15:03:37,548 | INFO | Monitoring Started.
+2026-03-07 15:03:42,969 | INFO | Posture alert triggered.
+2026-03-07 15:03:43,018 | INFO | Posture alert triggered.
+2026-03-07 15:03:43,065 | INFO | Posture alert triggered.
+2026-03-07 15:03:43,113 | INFO | Posture alert triggered.
+2026-03-07 15:03:43,158 | INFO | Posture alert triggered.
+2026-03-07 15:03:43,203 | INFO | Posture alert triggered.
+2026-03-07 15:03:43,250 | INFO | Posture alert triggered.
+2026-03-07 15:03:43,297 | INFO | Posture alert triggered.
+2026-03-07 15:03:43,347 | INFO | Posture alert triggered.
+2026-03-07 15:03:43,388 | INFO | Posture alert triggered.
+2026-03-07 15:03:43,437 | INFO | Posture alert triggered.
+2026-03-07 15:03:43,483 | INFO | Posture alert triggered.
+2026-03-07 15:03:43,527 | INFO | Posture alert triggered.
+2026-03-07 15:03:43,575 | INFO | Posture alert triggered.
+2026-03-07 15:03:43,622 | INFO | Posture alert triggered.
+2026-03-07 15:03:43,669 | INFO | Posture alert triggered.
+2026-03-07 15:03:43,717 | INFO | Posture alert triggered.
+2026-03-07 15:03:43,763 | INFO | Posture alert triggered.
+2026-03-07 15:03:43,810 | INFO | Posture alert triggered.
+2026-03-07 15:03:43,867 | INFO | Posture alert triggered.
+2026-03-07 15:03:43,913 | INFO | Posture alert triggered.
+2026-03-07 15:03:43,958 | INFO | Posture alert triggered.
+2026-03-07 15:03:44,005 | INFO | Posture alert triggered.
+2026-03-07 15:03:44,050 | INFO | Posture alert triggered.
+2026-03-07 15:03:44,099 | INFO | Posture alert triggered.
+2026-03-07 15:03:44,148 | INFO | Posture alert triggered.
+2026-03-07 15:03:44,189 | INFO | Posture alert triggered.
+2026-03-07 15:03:44,237 | INFO | Posture alert triggered.
+2026-03-07 15:03:44,292 | INFO | Posture alert triggered.
+2026-03-07 15:03:44,347 | INFO | Posture alert triggered.
+2026-03-07 15:03:44,409 | INFO | Posture alert triggered.
+2026-03-07 15:03:44,454 | INFO | Posture alert triggered.
+2026-03-07 15:03:44,504 | INFO | Posture alert triggered.
+2026-03-07 15:03:44,568 | INFO | Posture alert triggered.
+2026-03-07 15:03:44,626 | INFO | Posture alert triggered.
+2026-03-07 15:03:44,687 | INFO | Posture alert triggered.
+2026-03-07 15:03:44,751 | INFO | Posture alert triggered.
+2026-03-07 15:03:44,810 | INFO | Posture alert triggered.
+2026-03-07 15:03:44,858 | INFO | Posture alert triggered.
+2026-03-07 15:03:44,923 | INFO | Posture alert triggered.
+2026-03-07 15:03:44,987 | INFO | Posture alert triggered.
+2026-03-07 15:03:45,039 | INFO | Posture alert triggered.
+2026-03-07 15:03:45,086 | INFO | Posture alert triggered.
+2026-03-07 15:03:45,149 | INFO | Posture alert triggered.
+2026-03-07 15:03:45,205 | INFO | Posture alert triggered.
+2026-03-07 15:03:45,258 | INFO | Posture alert triggered.
+2026-03-07 15:03:45,314 | INFO | Posture alert triggered.
+2026-03-07 15:03:45,376 | INFO | Posture alert triggered.
+2026-03-07 15:03:45,424 | INFO | Posture alert triggered.
+2026-03-07 15:03:45,481 | INFO | Posture alert triggered.
+2026-03-07 15:03:45,531 | INFO | Posture alert triggered.
+2026-03-07 15:03:45,590 | INFO | Posture alert triggered.
+2026-03-07 15:03:45,651 | INFO | Posture alert triggered.
+2026-03-07 15:03:45,697 | INFO | Posture alert triggered.
+2026-03-07 15:03:45,743 | INFO | Posture alert triggered.
+2026-03-07 15:03:45,806 | INFO | Posture alert triggered.
+2026-03-07 15:03:45,851 | INFO | Posture alert triggered.
+2026-03-07 15:03:45,900 | INFO | Posture alert triggered.
+2026-03-07 15:03:45,966 | INFO | Posture alert triggered.
+2026-03-07 15:03:46,021 | INFO | Posture alert triggered.
+2026-03-07 15:03:46,070 | INFO | Posture alert triggered.
+2026-03-07 15:03:46,127 | INFO | Posture alert triggered.
+2026-03-07 15:03:46,188 | INFO | Posture alert triggered.
+2026-03-07 15:03:46,251 | INFO | Posture alert triggered.
+2026-03-07 15:03:46,299 | INFO | Posture alert triggered.
+2026-03-07 15:03:46,359 | INFO | Posture alert triggered.
+2026-03-07 15:03:46,420 | INFO | Posture alert triggered.
+2026-03-07 15:03:46,480 | INFO | Posture alert triggered.
+2026-03-07 15:03:46,542 | INFO | Posture alert triggered.
+2026-03-07 15:03:46,601 | INFO | Posture alert triggered.
+2026-03-07 15:03:46,649 | INFO | Posture alert triggered.
+2026-03-07 15:03:46,709 | INFO | Posture alert triggered.
+2026-03-07 15:03:46,773 | INFO | Posture alert triggered.
+2026-03-07 15:03:46,831 | INFO | Posture alert triggered.
+2026-03-07 15:03:46,878 | INFO | Posture alert triggered.
+2026-03-07 15:03:46,937 | INFO | Posture alert triggered.
+2026-03-07 15:03:46,983 | INFO | Posture alert triggered.
+2026-03-07 15:03:47,043 | INFO | Posture alert triggered.
+2026-03-07 15:03:47,095 | INFO | Posture alert triggered.
+2026-03-07 15:03:47,154 | INFO | Posture alert triggered.
+2026-03-07 15:03:47,199 | INFO | Posture alert triggered.
+2026-03-07 15:03:47,243 | INFO | Posture alert triggered.
+2026-03-07 15:03:47,293 | INFO | Posture alert triggered.
+2026-03-07 15:03:47,337 | INFO | Posture alert triggered.
+2026-03-07 15:03:47,383 | INFO | Posture alert triggered.
+2026-03-07 15:03:47,435 | INFO | Posture alert triggered.
+2026-03-07 15:03:47,491 | INFO | Posture alert triggered.
+2026-03-07 15:03:47,541 | INFO | Posture alert triggered.
+2026-03-07 15:03:47,590 | INFO | Posture alert triggered.
+2026-03-07 15:03:47,650 | INFO | Posture alert triggered.
+2026-03-07 15:03:47,699 | INFO | Posture alert triggered.
+2026-03-07 15:03:47,758 | INFO | Posture alert triggered.
+2026-03-07 15:03:47,803 | INFO | Posture alert triggered.
+2026-03-07 15:03:47,846 | INFO | Posture alert triggered.
+2026-03-07 15:03:47,899 | INFO | Posture alert triggered.
+2026-03-07 15:03:47,947 | INFO | Posture alert triggered.
+2026-03-07 15:03:47,985 | INFO | Posture alert triggered.
+2026-03-07 15:03:48,033 | INFO | Posture alert triggered.
+2026-03-07 15:03:48,077 | INFO | Posture alert triggered.
+2026-03-07 15:03:48,131 | INFO | Posture alert triggered.
+2026-03-07 15:03:48,203 | INFO | Posture alert triggered.
+2026-03-07 15:03:48,259 | INFO | Posture alert triggered.
+2026-03-07 15:03:48,316 | INFO | Posture alert triggered.
+2026-03-07 15:03:48,366 | INFO | Posture alert triggered.
+2026-03-07 15:03:48,411 | INFO | Posture alert triggered.
+2026-03-07 15:03:48,468 | INFO | Posture alert triggered.
+2026-03-07 15:03:48,515 | INFO | Posture alert triggered.
+2026-03-07 15:03:48,561 | INFO | Posture alert triggered.
+2026-03-07 15:03:48,612 | INFO | Posture alert triggered.
+2026-03-07 15:03:48,654 | INFO | Posture alert triggered.
+2026-03-07 15:03:48,697 | INFO | Posture alert triggered.
+2026-03-07 15:03:48,749 | INFO | Posture alert triggered.
+2026-03-07 15:03:48,792 | INFO | Posture alert triggered.
+2026-03-07 15:03:48,848 | INFO | Posture alert triggered.
+2026-03-07 15:03:48,904 | INFO | Posture alert triggered.
+2026-03-07 15:03:48,950 | INFO | Posture alert triggered.
+2026-03-07 15:03:49,000 | INFO | Posture alert triggered.
+2026-03-07 15:03:49,042 | INFO | Posture alert triggered.
+2026-03-07 15:03:49,098 | INFO | Posture alert triggered.
+2026-03-07 15:03:49,153 | INFO | Posture alert triggered.
+2026-03-07 15:03:49,199 | INFO | Posture alert triggered.
+2026-03-07 15:03:49,245 | INFO | Posture alert triggered.
+2026-03-07 15:03:49,293 | INFO | Posture alert triggered.
+2026-03-07 15:03:49,342 | INFO | Posture alert triggered.
+2026-03-07 15:03:49,385 | INFO | Posture alert triggered.
+2026-03-07 15:03:49,433 | INFO | Posture alert triggered.
+2026-03-07 15:03:49,479 | INFO | Posture alert triggered.
+2026-03-07 15:03:49,524 | INFO | Posture alert triggered.
+2026-03-07 15:03:49,571 | INFO | Posture alert triggered.
+2026-03-07 15:03:49,620 | INFO | Posture alert triggered.
+2026-03-07 15:03:49,663 | INFO | Posture alert triggered.
+2026-03-07 15:03:49,715 | INFO | Posture alert triggered.
+2026-03-07 15:03:49,775 | INFO | Posture alert triggered.
+2026-03-07 15:03:49,834 | INFO | Posture alert triggered.
+2026-03-07 15:03:49,881 | INFO | Posture alert triggered.
+2026-03-07 15:03:49,931 | INFO | Posture alert triggered.
+2026-03-07 15:03:49,991 | INFO | Posture alert triggered.
+2026-03-07 15:03:50,053 | INFO | Posture alert triggered.
+2026-03-07 15:03:50,123 | INFO | Posture alert triggered.
+2026-03-07 15:03:50,176 | INFO | Posture alert triggered.
+2026-03-07 15:03:50,236 | INFO | Posture alert triggered.
+2026-03-07 15:03:50,301 | INFO | Posture alert triggered.
+2026-03-07 15:03:50,356 | INFO | Posture alert triggered.
+2026-03-07 15:03:50,408 | INFO | Posture alert triggered.
+2026-03-07 15:03:50,470 | INFO | Posture alert triggered.
+2026-03-07 15:03:50,530 | INFO | Posture alert triggered.
+2026-03-07 15:03:50,594 | INFO | Posture alert triggered.
+2026-03-07 15:03:50,651 | INFO | Posture alert triggered.
+2026-03-07 15:03:50,713 | INFO | Posture alert triggered.
+2026-03-07 15:03:50,774 | INFO | Posture alert triggered.
+2026-03-07 15:03:50,836 | INFO | Posture alert triggered.
+2026-03-07 15:03:50,899 | INFO | Posture alert triggered.
+2026-03-07 15:03:50,955 | INFO | Posture alert triggered.
+2026-03-07 15:03:51,002 | INFO | Posture alert triggered.
+2026-03-07 15:03:51,044 | INFO | Posture alert triggered.
+2026-03-07 15:03:51,097 | INFO | Posture alert triggered.
+2026-03-07 15:03:51,157 | INFO | Posture alert triggered.
+2026-03-07 15:03:51,202 | INFO | Posture alert triggered.
+2026-03-07 15:03:51,249 | INFO | Posture alert triggered.
+2026-03-07 15:03:51,315 | INFO | Posture alert triggered.
+2026-03-07 15:03:51,379 | INFO | Posture alert triggered.
+2026-03-07 15:03:51,432 | INFO | Posture alert triggered.
+2026-03-07 15:03:51,480 | INFO | Posture alert triggered.
+2026-03-07 15:03:51,522 | INFO | Posture alert triggered.
+2026-03-07 15:03:51,572 | INFO | Posture alert triggered.
+2026-03-07 15:03:51,618 | INFO | Posture alert triggered.
+2026-03-07 15:03:51,661 | INFO | Posture alert triggered.
+2026-03-07 15:03:51,709 | INFO | Posture alert triggered.
+2026-03-07 15:03:51,754 | INFO | Posture alert triggered.
+2026-03-07 15:03:51,798 | INFO | Posture alert triggered.
+2026-03-07 15:03:51,843 | INFO | Posture alert triggered.
+2026-03-07 15:03:51,893 | INFO | Posture alert triggered.
+2026-03-07 15:03:51,937 | INFO | Posture alert triggered.
+2026-03-07 15:03:51,985 | INFO | Posture alert triggered.
+2026-03-07 15:03:52,050 | INFO | Posture alert triggered.
+2026-03-07 15:03:52,093 | INFO | Posture alert triggered.
+2026-03-07 15:03:52,142 | INFO | Posture alert triggered.
+2026-03-07 15:03:52,193 | INFO | Posture alert triggered.
+2026-03-07 15:03:52,247 | INFO | Posture alert triggered.
+2026-03-07 15:03:52,295 | INFO | Posture alert triggered.
+2026-03-07 15:03:52,341 | INFO | Posture alert triggered.
+2026-03-07 15:03:52,387 | INFO | Posture alert triggered.
+2026-03-07 15:03:52,435 | INFO | Posture alert triggered.
+2026-03-07 15:03:52,476 | INFO | Posture alert triggered.
+2026-03-07 15:03:52,529 | INFO | Posture alert triggered.
+2026-03-07 15:03:52,572 | INFO | Posture alert triggered.
+2026-03-07 15:03:52,636 | INFO | Posture alert triggered.
+2026-03-07 15:03:52,681 | INFO | Posture alert triggered.
+2026-03-07 15:03:52,725 | INFO | Posture alert triggered.
+2026-03-07 15:03:52,770 | INFO | Posture alert triggered.
+2026-03-07 15:03:52,815 | INFO | Posture alert triggered.
+2026-03-07 15:03:52,865 | INFO | Posture alert triggered.
+2026-03-07 15:03:52,907 | INFO | Posture alert triggered.
+2026-03-07 15:03:52,959 | INFO | Posture alert triggered.
+2026-03-07 15:03:53,006 | INFO | Posture alert triggered.
+2026-03-07 15:03:53,045 | INFO | Posture alert triggered.
+2026-03-07 15:03:53,111 | INFO | Posture alert triggered.
+2026-03-07 15:03:53,159 | INFO | Posture alert triggered.
+2026-03-07 15:03:53,201 | INFO | Posture alert triggered.
+2026-03-07 15:03:53,252 | INFO | Posture alert triggered.
+2026-03-07 15:03:53,293 | INFO | Posture alert triggered.
+2026-03-07 15:03:53,340 | INFO | Posture alert triggered.
+2026-03-07 15:03:53,385 | INFO | Posture alert triggered.
+2026-03-07 15:03:53,434 | INFO | Posture alert triggered.
+2026-03-07 15:03:53,476 | INFO | Posture alert triggered.
+2026-03-07 15:03:53,520 | INFO | Posture alert triggered.
+2026-03-07 15:03:53,569 | INFO | Posture alert triggered.
+2026-03-07 15:03:53,619 | INFO | Posture alert triggered.
+2026-03-07 15:03:53,661 | INFO | Posture alert triggered.
+2026-03-07 15:03:53,709 | INFO | Posture alert triggered.
+2026-03-07 15:03:53,755 | INFO | Posture alert triggered.
+2026-03-07 15:03:53,800 | INFO | Posture alert triggered.
+2026-03-07 15:03:53,848 | INFO | Posture alert triggered.
+2026-03-07 15:03:53,893 | INFO | Posture alert triggered.
+2026-03-07 15:03:53,940 | INFO | Posture alert triggered.
+2026-03-07 15:03:53,982 | INFO | Posture alert triggered.
+2026-03-07 15:03:54,027 | INFO | Posture alert triggered.
+2026-03-07 15:03:54,081 | INFO | Posture alert triggered.
+2026-03-07 15:03:54,126 | INFO | Posture alert triggered.
+2026-03-07 15:03:54,170 | INFO | Posture alert triggered.
+2026-03-07 15:03:54,217 | INFO | Posture alert triggered.
+2026-03-07 15:03:54,263 | INFO | Posture alert triggered.
+2026-03-07 15:03:54,309 | INFO | Posture alert triggered.
+2026-03-07 15:03:54,355 | INFO | Posture alert triggered.
+2026-03-07 15:03:54,406 | INFO | Posture alert triggered.
+2026-03-07 15:03:54,462 | INFO | Posture alert triggered.
+2026-03-07 15:03:54,513 | INFO | Posture alert triggered.
+2026-03-07 15:03:54,557 | INFO | Posture alert triggered.
+2026-03-07 15:03:54,602 | INFO | Posture alert triggered.
+2026-03-07 15:03:54,643 | INFO | Posture alert triggered.
+2026-03-07 15:03:54,693 | INFO | Posture alert triggered.
+2026-03-07 15:03:54,740 | INFO | Posture alert triggered.
+2026-03-07 15:03:54,785 | INFO | Posture alert triggered.
+2026-03-07 15:03:54,827 | INFO | Posture alert triggered.
+2026-03-07 15:03:54,882 | INFO | Posture alert triggered.
+2026-03-07 15:03:54,931 | INFO | Posture alert triggered.
+2026-03-07 15:03:54,982 | INFO | Posture alert triggered.
+2026-03-07 15:03:55,031 | INFO | Posture alert triggered.
+2026-03-07 15:03:55,081 | INFO | Posture alert triggered.
+2026-03-07 15:03:55,143 | INFO | Posture alert triggered.
+2026-03-07 15:03:55,198 | INFO | Posture alert triggered.
+2026-03-07 15:03:55,249 | INFO | Posture alert triggered.
+2026-03-07 15:03:55,307 | INFO | Posture alert triggered.
+2026-03-07 15:03:55,352 | INFO | Posture alert triggered.
+2026-03-07 15:03:55,395 | INFO | Posture alert triggered.
+2026-03-07 15:03:55,443 | INFO | Posture alert triggered.
+2026-03-07 15:03:55,492 | INFO | Posture alert triggered.
+2026-03-07 15:03:55,560 | INFO | Posture alert triggered.
+2026-03-07 15:03:55,621 | INFO | Posture alert triggered.
+2026-03-07 15:03:55,677 | INFO | Posture alert triggered.
+2026-03-07 15:03:55,727 | INFO | Posture alert triggered.
+2026-03-07 15:03:55,785 | INFO | Posture alert triggered.
+2026-03-07 15:03:55,827 | INFO | Posture alert triggered.
+2026-03-07 15:03:55,876 | INFO | Posture alert triggered.
+2026-03-07 15:03:55,922 | INFO | Posture alert triggered.
+2026-03-07 15:03:55,967 | INFO | Posture alert triggered.
+2026-03-07 15:03:56,013 | INFO | Posture alert triggered.
+2026-03-07 15:03:56,065 | INFO | Posture alert triggered.
+2026-03-07 15:03:56,123 | INFO | Posture alert triggered.
+2026-03-07 15:03:56,166 | INFO | Posture alert triggered.
+2026-03-07 15:03:56,212 | INFO | Posture alert triggered.
+2026-03-07 15:03:56,259 | INFO | Posture alert triggered.
+2026-03-07 15:03:56,306 | INFO | Posture alert triggered.
+2026-03-07 15:03:56,346 | INFO | Posture alert triggered.
+2026-03-07 15:03:56,393 | INFO | Posture alert triggered.
+2026-03-07 15:03:56,444 | INFO | Posture alert triggered.
+2026-03-07 15:03:56,487 | INFO | Posture alert triggered.
+2026-03-07 15:03:56,534 | INFO | Posture alert triggered.
+2026-03-07 15:03:56,579 | INFO | Posture alert triggered.
+2026-03-07 15:03:56,626 | INFO | Posture alert triggered.
+2026-03-07 15:03:56,674 | INFO | Posture alert triggered.
+2026-03-07 15:03:56,717 | INFO | Posture alert triggered.
+2026-03-07 15:03:56,767 | INFO | Posture alert triggered.
+2026-03-07 15:03:56,813 | INFO | Posture alert triggered.
+2026-03-07 15:03:56,859 | INFO | Posture alert triggered.
+2026-03-07 15:03:56,908 | INFO | Posture alert triggered.
+2026-03-07 15:03:56,963 | INFO | Posture alert triggered.
+2026-03-07 15:03:57,011 | INFO | Posture alert triggered.
+2026-03-07 15:03:57,059 | INFO | Posture alert triggered.
+2026-03-07 15:03:57,103 | INFO | Posture alert triggered.
+2026-03-07 15:03:57,149 | INFO | Posture alert triggered.
+2026-03-07 15:03:57,199 | INFO | Posture alert triggered.
+2026-03-07 15:03:57,259 | INFO | Posture alert triggered.
+2026-03-07 15:03:57,301 | INFO | Posture alert triggered.
+2026-03-07 15:03:57,349 | INFO | Posture alert triggered.
+2026-03-07 15:03:57,395 | INFO | Posture alert triggered.
+2026-03-07 15:03:57,444 | INFO | Posture alert triggered.
+2026-03-07 15:03:57,486 | INFO | Posture alert triggered.
+2026-03-07 15:03:57,532 | INFO | Posture alert triggered.
+2026-03-07 15:03:57,577 | INFO | Posture alert triggered.
+2026-03-07 15:03:57,647 | INFO | Posture alert triggered.
+2026-03-07 15:03:57,710 | INFO | Posture alert triggered.
+2026-03-07 15:03:57,765 | INFO | Posture alert triggered.
+2026-03-07 15:03:57,810 | INFO | Posture alert triggered.
+2026-03-07 15:03:57,860 | INFO | Posture alert triggered.
+2026-03-07 15:03:57,918 | INFO | Posture alert triggered.
+2026-03-07 15:03:57,967 | INFO | Posture alert triggered.
+2026-03-07 15:03:58,025 | INFO | Posture alert triggered.
+2026-03-07 15:03:58,070 | INFO | Posture alert triggered.
+2026-03-07 15:03:58,118 | INFO | Posture alert triggered.
+2026-03-07 15:03:58,167 | INFO | Posture alert triggered.
+2026-03-07 15:03:58,224 | INFO | Posture alert triggered.
+2026-03-07 15:03:58,275 | INFO | Posture alert triggered.
+2026-03-07 15:03:58,319 | INFO | Posture alert triggered.
+2026-03-07 15:03:58,368 | INFO | Posture alert triggered.
+2026-03-07 15:03:58,413 | INFO | Posture alert triggered.
+2026-03-07 15:03:58,476 | INFO | Posture alert triggered.
+2026-03-07 15:03:58,522 | INFO | Posture alert triggered.
+2026-03-07 15:03:58,569 | INFO | Posture alert triggered.
+2026-03-07 15:03:58,615 | INFO | Posture alert triggered.
+2026-03-07 15:03:58,663 | INFO | Posture alert triggered.
+2026-03-07 15:03:58,707 | INFO | Posture alert triggered.
+2026-03-07 15:03:58,754 | INFO | Posture alert triggered.
+2026-03-07 15:03:58,802 | INFO | Posture alert triggered.
+2026-03-07 15:03:58,847 | INFO | Posture alert triggered.
+2026-03-07 15:03:58,897 | INFO | Posture alert triggered.
+2026-03-07 15:03:58,945 | INFO | Posture alert triggered.
+2026-03-07 15:03:59,004 | INFO | Posture alert triggered.
+2026-03-07 15:03:59,045 | INFO | Posture alert triggered.
+2026-03-07 15:03:59,113 | INFO | Posture alert triggered.
+2026-03-07 15:03:59,175 | INFO | Posture alert triggered.
+2026-03-07 15:03:59,232 | INFO | Posture alert triggered.
+2026-03-07 15:03:59,279 | INFO | Posture alert triggered.
+2026-03-07 15:03:59,321 | INFO | Posture alert triggered.
+2026-03-07 15:03:59,365 | INFO | Posture alert triggered.
+2026-03-07 15:03:59,420 | INFO | Posture alert triggered.
+2026-03-07 15:03:59,475 | INFO | Posture alert triggered.
+2026-03-07 15:03:59,521 | INFO | Posture alert triggered.
+2026-03-07 15:03:59,568 | INFO | Posture alert triggered.
+2026-03-07 15:03:59,625 | INFO | Posture alert triggered.
+2026-03-07 15:03:59,684 | INFO | Posture alert triggered.
+2026-03-07 15:03:59,739 | INFO | Posture alert triggered.
+2026-03-07 15:03:59,784 | INFO | Posture alert triggered.
+2026-03-07 15:03:59,830 | INFO | Posture alert triggered.
+2026-03-07 15:03:59,877 | INFO | Posture alert triggered.
+2026-03-07 15:03:59,930 | INFO | Posture alert triggered.
+2026-03-07 15:03:59,974 | INFO | Posture alert triggered.
+2026-03-07 15:04:00,015 | INFO | Posture alert triggered.
+2026-03-07 15:04:00,064 | INFO | Posture alert triggered.
+2026-03-07 15:04:00,112 | INFO | Posture alert triggered.
+2026-03-07 15:04:00,156 | INFO | Posture alert triggered.
+2026-03-07 15:04:00,202 | INFO | Posture alert triggered.
+2026-03-07 15:04:00,249 | INFO | Posture alert triggered.
+2026-03-07 15:04:00,307 | INFO | Posture alert triggered.
+2026-03-07 15:04:00,356 | INFO | Posture alert triggered.
+2026-03-07 15:04:00,400 | INFO | Posture alert triggered.
+2026-03-07 15:04:00,450 | INFO | Posture alert triggered.
+2026-03-07 15:04:00,495 | INFO | Posture alert triggered.
+2026-03-07 15:04:00,537 | INFO | Posture alert triggered.
+2026-03-07 15:04:00,591 | INFO | Posture alert triggered.
+2026-03-07 15:04:00,648 | INFO | Posture alert triggered.
+2026-03-07 15:04:00,697 | INFO | Posture alert triggered.
+2026-03-07 15:04:00,743 | INFO | Posture alert triggered.
+2026-03-07 15:04:00,784 | INFO | Posture alert triggered.
+2026-03-07 15:04:00,832 | INFO | Posture alert triggered.
+2026-03-07 15:04:00,958 | INFO | Posture alert triggered.
+2026-03-07 15:04:01,044 | INFO | Posture alert triggered.
+2026-03-07 15:04:01,109 | INFO | Posture alert triggered.
+2026-03-07 15:04:01,157 | INFO | Posture alert triggered.
+2026-03-07 15:04:01,206 | INFO | Posture alert triggered.
+2026-03-07 15:04:01,256 | INFO | Posture alert triggered.
+2026-03-07 15:04:01,311 | INFO | Posture alert triggered.
+2026-03-07 15:04:01,371 | INFO | Posture alert triggered.
+2026-03-07 15:04:01,420 | INFO | Posture alert triggered.
+2026-03-07 15:04:01,484 | INFO | Posture alert triggered.
+2026-03-07 15:04:01,540 | INFO | Posture alert triggered.
+2026-03-07 15:04:01,608 | INFO | Posture alert triggered.
+2026-03-07 15:04:01,674 | INFO | Posture alert triggered.
+2026-03-07 15:04:01,725 | INFO | Posture alert triggered.
+2026-03-07 15:04:01,785 | INFO | Posture alert triggered.
+2026-03-07 15:04:01,850 | INFO | Posture alert triggered.
+2026-03-07 15:04:01,968 | INFO | Posture alert triggered.
+2026-03-07 15:04:02,082 | INFO | Posture alert triggered.
+2026-03-07 15:04:02,173 | INFO | Posture alert triggered.
+2026-03-07 15:04:02,284 | INFO | Posture alert triggered.
+2026-03-07 15:04:02,398 | INFO | Posture alert triggered.
+2026-03-07 15:04:02,523 | INFO | Posture alert triggered.
+2026-03-07 15:04:02,645 | INFO | Posture alert triggered.
+2026-03-07 15:04:02,757 | INFO | Posture alert triggered.
+2026-03-07 15:04:02,871 | INFO | Posture alert triggered.
+2026-03-07 15:04:02,975 | INFO | Posture alert triggered.
+2026-03-07 15:04:03,094 | INFO | Posture alert triggered.
+2026-03-07 15:04:03,225 | INFO | Posture alert triggered.
+2026-03-07 15:04:03,366 | INFO | Posture alert triggered.
+2026-03-07 15:04:03,471 | INFO | Posture alert triggered.
+2026-03-07 15:04:03,610 | INFO | Posture alert triggered.
+2026-03-07 15:04:03,732 | INFO | Posture alert triggered.
+2026-03-07 15:04:03,860 | INFO | Posture alert triggered.
+2026-03-07 15:04:03,977 | INFO | Posture alert triggered.
+2026-03-07 15:04:04,090 | INFO | Posture alert triggered.
+2026-03-07 15:04:04,187 | INFO | Posture alert triggered.
+2026-03-07 15:04:04,315 | INFO | Posture alert triggered.
+2026-03-07 15:04:04,424 | INFO | Posture alert triggered.
+2026-03-07 15:04:04,540 | INFO | Posture alert triggered.
+2026-03-07 15:04:04,655 | INFO | Posture alert triggered.
+2026-03-07 15:04:04,777 | INFO | Posture alert triggered.
+2026-03-07 15:04:04,894 | INFO | Posture alert triggered.
+2026-03-07 15:04:05,010 | INFO | Posture alert triggered.
+2026-03-07 15:04:05,135 | INFO | Posture alert triggered.
+2026-03-07 15:04:05,242 | INFO | Posture alert triggered.
+2026-03-07 15:04:05,350 | INFO | Posture alert triggered.
+2026-03-07 15:04:05,458 | INFO | Posture alert triggered.
+2026-03-07 15:04:05,558 | INFO | Posture alert triggered.
+2026-03-07 15:04:05,682 | INFO | Posture alert triggered.
+2026-03-07 15:04:05,803 | INFO | Posture alert triggered.
+2026-03-07 15:04:05,926 | INFO | Posture alert triggered.
+2026-03-07 15:04:06,042 | INFO | Posture alert triggered.
+2026-03-07 15:04:06,149 | INFO | Posture alert triggered.
+2026-03-07 15:04:06,254 | INFO | Posture alert triggered.
+2026-03-07 15:04:06,377 | INFO | Posture alert triggered.
+2026-03-07 15:04:06,515 | INFO | Posture alert triggered.
+2026-03-07 15:04:06,645 | INFO | Posture alert triggered.
+2026-03-07 15:04:06,777 | INFO | Posture alert triggered.
+2026-03-07 15:04:06,904 | INFO | Posture alert triggered.
+2026-03-07 15:04:06,978 | INFO | Posture alert triggered.
+2026-03-07 15:04:07,022 | INFO | Posture alert triggered.
+2026-03-07 15:04:07,058 | INFO | Posture alert triggered.
+2026-03-07 15:04:07,112 | INFO | Posture alert triggered.
+2026-03-07 15:04:07,159 | INFO | Posture alert triggered.
+2026-03-07 15:04:07,208 | INFO | Posture alert triggered.
+2026-03-07 15:04:07,253 | INFO | Posture alert triggered.
+2026-03-07 15:04:07,295 | INFO | Posture alert triggered.
+2026-03-07 15:04:07,341 | INFO | Posture alert triggered.
+2026-03-07 15:04:07,389 | INFO | Posture alert triggered.
+2026-03-07 15:04:07,441 | INFO | Posture alert triggered.
+2026-03-07 15:04:07,481 | INFO | Posture alert triggered.
+2026-03-07 15:04:07,487 | INFO | User requested shutdown.
+2026-03-07 15:04:07,884 | INFO | System Shutdown Complete.
+2026-03-07 15:06:01,611 | INFO | Starting DeskGuardian Application...
+2026-03-07 15:06:01,613 | INFO | Using existing user: DefaultUser (ID: 1)
+2026-03-07 15:06:01,863 | INFO | System Initializing...
+2026-03-07 15:06:01,895 | INFO | Monitoring Started.
+2026-03-07 15:06:07,336 | INFO | Posture alert triggered.
+2026-03-07 15:06:07,448 | INFO | Posture alert triggered.
+2026-03-07 15:06:07,567 | INFO | Posture alert triggered.
+2026-03-07 15:06:07,661 | INFO | Posture alert triggered.
+2026-03-07 15:06:07,728 | INFO | Posture alert triggered.
+2026-03-07 15:06:07,764 | INFO | Posture alert triggered.
+2026-03-07 15:06:07,808 | INFO | Posture alert triggered.
+2026-03-07 15:06:07,858 | INFO | Posture alert triggered.
+2026-03-07 15:06:07,904 | INFO | Posture alert triggered.
+2026-03-07 15:06:07,954 | INFO | Posture alert triggered.
+2026-03-07 15:06:07,998 | INFO | Posture alert triggered.
+2026-03-07 15:06:08,045 | INFO | Posture alert triggered.
+2026-03-07 15:06:08,088 | INFO | Posture alert triggered.
+2026-03-07 15:06:08,126 | INFO | Posture alert triggered.
+2026-03-07 15:06:08,180 | INFO | Posture alert triggered.
+2026-03-07 15:06:08,229 | INFO | Posture alert triggered.
+2026-03-07 15:06:08,281 | INFO | Posture alert triggered.
+2026-03-07 15:06:08,317 | INFO | Posture alert triggered.
+2026-03-07 15:06:08,376 | INFO | Posture alert triggered.
+2026-03-07 15:06:08,424 | INFO | Posture alert triggered.
+2026-03-07 15:06:08,470 | INFO | Posture alert triggered.
+2026-03-07 15:06:08,518 | INFO | Posture alert triggered.
+2026-03-07 15:06:08,556 | INFO | Posture alert triggered.
+2026-03-07 15:06:08,617 | INFO | Posture alert triggered.
+2026-03-07 15:06:08,655 | INFO | Posture alert triggered.
+2026-03-07 15:06:08,704 | INFO | Posture alert triggered.
+2026-03-07 15:06:08,752 | INFO | Posture alert triggered.
+2026-03-07 15:06:08,791 | INFO | Posture alert triggered.
+2026-03-07 15:06:08,845 | INFO | Posture alert triggered.
+2026-03-07 15:06:08,891 | INFO | Posture alert triggered.
+2026-03-07 15:06:08,939 | INFO | Posture alert triggered.
+2026-03-07 15:06:09,131 | INFO | Posture alert triggered.
+2026-03-07 15:06:09,266 | INFO | Posture alert triggered.
+2026-03-07 15:06:09,399 | INFO | Posture alert triggered.
+2026-03-07 15:06:09,535 | INFO | Posture alert triggered.
+2026-03-07 15:06:09,675 | INFO | Posture alert triggered.
+2026-03-07 15:06:09,783 | INFO | Posture alert triggered.
+2026-03-07 15:06:09,920 | INFO | Posture alert triggered.
+2026-03-07 15:06:10,049 | INFO | Posture alert triggered.
+2026-03-07 15:06:10,174 | INFO | Posture alert triggered.
+2026-03-07 15:06:10,284 | INFO | Posture alert triggered.
+2026-03-07 15:06:10,422 | INFO | Posture alert triggered.
+2026-03-07 15:06:10,524 | INFO | Posture alert triggered.
+2026-03-07 15:06:10,649 | INFO | Posture alert triggered.
+2026-03-07 15:06:10,782 | INFO | Posture alert triggered.
+2026-03-07 15:06:10,916 | INFO | Posture alert triggered.
+2026-03-07 15:06:11,051 | INFO | Posture alert triggered.
+2026-03-07 15:06:11,173 | INFO | Posture alert triggered.
+2026-03-07 15:06:11,298 | INFO | Posture alert triggered.
+2026-03-07 15:06:11,415 | INFO | Posture alert triggered.
+2026-03-07 15:06:11,537 | INFO | Posture alert triggered.
+2026-03-07 15:06:11,654 | INFO | Posture alert triggered.
+2026-03-07 15:06:11,778 | INFO | Posture alert triggered.
+2026-03-07 15:06:11,910 | INFO | Posture alert triggered.
+2026-03-07 15:06:12,032 | INFO | Posture alert triggered.
+2026-03-07 15:06:12,152 | INFO | Posture alert triggered.
+2026-03-07 15:06:12,271 | INFO | Posture alert triggered.
+2026-03-07 15:06:12,395 | INFO | Posture alert triggered.
+2026-03-07 15:06:12,510 | INFO | Posture alert triggered.
+2026-03-07 15:06:12,630 | INFO | Posture alert triggered.
+2026-03-07 15:06:12,765 | INFO | Posture alert triggered.
+2026-03-07 15:06:12,906 | INFO | Posture alert triggered.
+2026-03-07 15:06:13,035 | INFO | Posture alert triggered.
+2026-03-07 15:06:13,164 | INFO | Posture alert triggered.
+2026-03-07 15:06:13,285 | INFO | Posture alert triggered.
+2026-03-07 15:06:13,413 | INFO | Posture alert triggered.
+2026-03-07 15:06:13,528 | INFO | Posture alert triggered.
+2026-03-07 15:06:13,654 | INFO | Posture alert triggered.
+2026-03-07 15:06:13,786 | INFO | Posture alert triggered.
+2026-03-07 15:06:13,912 | INFO | Posture alert triggered.
+2026-03-07 15:06:14,048 | INFO | Posture alert triggered.
+2026-03-07 15:06:14,162 | INFO | Posture alert triggered.
+2026-03-07 15:06:14,275 | INFO | Posture alert triggered.
+2026-03-07 15:06:14,413 | INFO | Posture alert triggered.
+2026-03-07 15:06:14,544 | INFO | Posture alert triggered.
+2026-03-07 15:06:14,678 | INFO | Posture alert triggered.
+2026-03-07 15:06:14,803 | INFO | Posture alert triggered.
+2026-03-07 15:06:14,945 | INFO | Posture alert triggered.
+2026-03-07 15:06:15,067 | INFO | Posture alert triggered.
+2026-03-07 15:06:15,190 | INFO | Posture alert triggered.
+2026-03-07 15:06:15,303 | INFO | Posture alert triggered.
+2026-03-07 15:06:15,426 | INFO | Posture alert triggered.
+2026-03-07 15:06:15,557 | INFO | Posture alert triggered.
+2026-03-07 15:06:15,687 | INFO | Posture alert triggered.
+2026-03-07 15:06:15,806 | INFO | Posture alert triggered.
+2026-03-07 15:06:15,941 | INFO | Posture alert triggered.
+2026-03-07 15:06:16,066 | INFO | Posture alert triggered.
+2026-03-07 15:06:16,191 | INFO | Posture alert triggered.
+2026-03-07 15:06:16,314 | INFO | Posture alert triggered.
+2026-03-07 15:06:16,445 | INFO | Posture alert triggered.
+2026-03-07 15:06:16,580 | INFO | Posture alert triggered.
+2026-03-07 15:06:16,693 | INFO | Posture alert triggered.
+2026-03-07 15:06:16,814 | INFO | Posture alert triggered.
+2026-03-07 15:06:16,944 | INFO | Posture alert triggered.
+2026-03-07 15:06:17,064 | INFO | Posture alert triggered.
+2026-03-07 15:06:17,182 | INFO | Posture alert triggered.
+2026-03-07 15:06:17,301 | INFO | Posture alert triggered.
+2026-03-07 15:06:17,420 | INFO | Posture alert triggered.
+2026-03-07 15:06:17,543 | INFO | Posture alert triggered.
+2026-03-07 15:06:17,673 | INFO | Posture alert triggered.
+2026-03-07 15:06:17,809 | INFO | Posture alert triggered.
+2026-03-07 15:06:17,942 | INFO | Posture alert triggered.
+2026-03-07 15:06:18,078 | INFO | Posture alert triggered.
+2026-03-07 15:06:18,207 | INFO | Posture alert triggered.
+2026-03-07 15:06:18,339 | INFO | Posture alert triggered.
+2026-03-07 15:06:18,474 | INFO | Posture alert triggered.
+2026-03-07 15:06:18,584 | INFO | Posture alert triggered.
+2026-03-07 15:06:18,718 | INFO | Posture alert triggered.
+2026-03-07 15:06:18,847 | INFO | Posture alert triggered.
+2026-03-07 15:06:18,970 | INFO | Posture alert triggered.
+2026-03-07 15:06:19,085 | INFO | Posture alert triggered.
+2026-03-07 15:06:19,213 | INFO | Posture alert triggered.
+2026-03-07 15:06:19,345 | INFO | Posture alert triggered.
+2026-03-07 15:06:19,485 | INFO | Posture alert triggered.
+2026-03-07 15:06:19,605 | INFO | Posture alert triggered.
+2026-03-07 15:06:19,724 | INFO | Posture alert triggered.
+2026-03-07 15:06:19,852 | INFO | Posture alert triggered.
+2026-03-07 15:06:19,971 | INFO | Posture alert triggered.
+2026-03-07 15:06:20,079 | INFO | Posture alert triggered.
+2026-03-07 15:06:20,196 | INFO | Posture alert triggered.
+2026-03-07 15:06:20,318 | INFO | Posture alert triggered.
+2026-03-07 15:06:20,454 | INFO | Posture alert triggered.
+2026-03-07 15:06:20,566 | INFO | Posture alert triggered.
+2026-03-07 15:06:20,698 | INFO | Posture alert triggered.
+2026-03-07 15:06:20,826 | INFO | Posture alert triggered.
+2026-03-07 15:06:20,962 | INFO | Posture alert triggered.
+2026-03-07 15:06:21,085 | INFO | Posture alert triggered.
+2026-03-07 15:06:21,209 | INFO | Posture alert triggered.
+2026-03-07 15:06:21,310 | INFO | Posture alert triggered.
+2026-03-07 15:06:21,434 | INFO | Posture alert triggered.
+2026-03-07 15:06:21,554 | INFO | Posture alert triggered.
+2026-03-07 15:06:21,662 | INFO | Posture alert triggered.
+2026-03-07 15:06:21,757 | INFO | Posture alert triggered.
+2026-03-07 15:06:21,878 | INFO | Posture alert triggered.
+2026-03-07 15:06:22,009 | INFO | Posture alert triggered.
+2026-03-07 15:06:22,142 | INFO | Posture alert triggered.
+2026-03-07 15:06:22,259 | INFO | Posture alert triggered.
+2026-03-07 15:06:22,390 | INFO | Posture alert triggered.
+2026-03-07 15:06:22,514 | INFO | Posture alert triggered.
+2026-03-07 15:06:22,641 | INFO | Posture alert triggered.
+2026-03-07 15:06:22,765 | INFO | Posture alert triggered.
+2026-03-07 15:06:22,894 | INFO | Posture alert triggered.
+2026-03-07 15:06:23,009 | INFO | Posture alert triggered.
+2026-03-07 15:06:23,136 | INFO | Posture alert triggered.
+2026-03-07 15:06:23,266 | INFO | Posture alert triggered.
+2026-03-07 15:06:23,376 | INFO | Posture alert triggered.
+2026-03-07 15:06:23,516 | INFO | Posture alert triggered.
+2026-03-07 15:06:23,661 | INFO | Posture alert triggered.
+2026-03-07 15:06:23,787 | INFO | Posture alert triggered.
+2026-03-07 15:06:23,919 | INFO | Posture alert triggered.
+2026-03-07 15:06:24,066 | INFO | Posture alert triggered.
+2026-03-07 15:06:24,193 | INFO | Posture alert triggered.
+2026-03-07 15:06:24,329 | INFO | Posture alert triggered.
+2026-03-07 15:06:24,479 | INFO | Posture alert triggered.
+2026-03-07 15:06:24,605 | INFO | Posture alert triggered.
+2026-03-07 15:06:24,739 | INFO | Posture alert triggered.
+2026-03-07 15:06:24,865 | INFO | Posture alert triggered.
+2026-03-07 15:06:24,980 | INFO | Posture alert triggered.
+2026-03-07 15:06:25,121 | INFO | Posture alert triggered.
+2026-03-07 15:06:25,237 | INFO | Posture alert triggered.
+2026-03-07 15:06:25,349 | INFO | Posture alert triggered.
+2026-03-07 15:06:25,470 | INFO | Posture alert triggered.
+2026-03-07 15:06:25,593 | INFO | Posture alert triggered.
+2026-03-07 15:06:25,720 | INFO | Posture alert triggered.
+2026-03-07 15:06:25,839 | INFO | Posture alert triggered.
+2026-03-07 15:06:25,962 | INFO | Posture alert triggered.
+2026-03-07 15:06:26,086 | INFO | Posture alert triggered.
+2026-03-07 15:06:26,213 | INFO | Posture alert triggered.
+2026-03-07 15:06:26,335 | INFO | Posture alert triggered.
+2026-03-07 15:06:26,455 | INFO | Posture alert triggered.
+2026-03-07 15:06:26,571 | INFO | Posture alert triggered.
+2026-03-07 15:06:26,672 | INFO | Posture alert triggered.
+2026-03-07 15:06:26,810 | INFO | Posture alert triggered.
+2026-03-07 15:06:26,941 | INFO | Posture alert triggered.
+2026-03-07 15:06:27,076 | INFO | Posture alert triggered.
+2026-03-07 15:06:27,193 | INFO | Posture alert triggered.
+2026-03-07 15:06:27,315 | INFO | Posture alert triggered.
+2026-03-07 15:06:27,442 | INFO | Posture alert triggered.
+2026-03-07 15:06:27,560 | INFO | Posture alert triggered.
+2026-03-07 15:06:27,678 | INFO | Posture alert triggered.
+2026-03-07 15:06:27,795 | INFO | Posture alert triggered.
+2026-03-07 15:06:27,945 | INFO | Posture alert triggered.
+2026-03-07 15:06:28,032 | INFO | Posture alert triggered.
+2026-03-07 15:06:28,155 | INFO | Posture alert triggered.
+2026-03-07 15:06:28,300 | INFO | Posture alert triggered.
+2026-03-07 15:06:28,444 | INFO | Posture alert triggered.
+2026-03-07 15:06:28,571 | INFO | Posture alert triggered.
+2026-03-07 15:06:28,728 | INFO | Posture alert triggered.
+2026-03-07 15:06:28,857 | INFO | Posture alert triggered.
+2026-03-07 15:06:28,999 | INFO | Posture alert triggered.
+2026-03-07 15:06:29,107 | INFO | Posture alert triggered.
+2026-03-07 15:06:29,232 | INFO | Posture alert triggered.
+2026-03-07 15:06:29,347 | INFO | Posture alert triggered.
+2026-03-07 15:06:29,464 | INFO | Posture alert triggered.
+2026-03-07 15:06:29,566 | INFO | Posture alert triggered.
+2026-03-07 15:06:29,675 | INFO | Posture alert triggered.
+2026-03-07 15:06:29,793 | INFO | Posture alert triggered.
+2026-03-07 15:06:29,900 | INFO | Posture alert triggered.
+2026-03-07 15:06:29,992 | INFO | Posture alert triggered.
+2026-03-07 15:06:30,101 | INFO | Posture alert triggered.
+2026-03-07 15:06:30,197 | INFO | Posture alert triggered.
+2026-03-07 15:06:30,288 | INFO | Posture alert triggered.
+2026-03-07 15:06:30,383 | INFO | Posture alert triggered.
+2026-03-07 15:06:30,491 | INFO | Posture alert triggered.
+2026-03-07 15:06:30,603 | INFO | Posture alert triggered.
+2026-03-07 15:06:30,730 | INFO | Posture alert triggered.
+2026-03-07 15:06:30,854 | INFO | Posture alert triggered.
+2026-03-07 15:06:30,986 | INFO | Posture alert triggered.
+2026-03-07 15:06:31,138 | INFO | Posture alert triggered.
+2026-03-07 15:06:31,223 | INFO | Posture alert triggered.
+2026-03-07 15:06:31,317 | INFO | Posture alert triggered.
+2026-03-07 15:06:31,438 | INFO | Posture alert triggered.
+2026-03-07 15:06:31,569 | INFO | Posture alert triggered.
+2026-03-07 15:06:31,687 | INFO | Posture alert triggered.
+2026-03-07 15:06:31,817 | INFO | Posture alert triggered.
+2026-03-07 15:06:31,946 | INFO | Posture alert triggered.
+2026-03-07 15:06:32,090 | INFO | Posture alert triggered.
+2026-03-07 15:06:32,191 | INFO | Posture alert triggered.
+2026-03-07 15:06:32,311 | INFO | Posture alert triggered.
+2026-03-07 15:06:32,437 | INFO | Posture alert triggered.
+2026-03-07 15:06:32,580 | INFO | Posture alert triggered.
+2026-03-07 15:06:32,722 | INFO | Posture alert triggered.
+2026-03-07 15:06:32,855 | INFO | Posture alert triggered.
+2026-03-07 15:06:32,981 | INFO | Posture alert triggered.
+2026-03-07 15:06:33,110 | INFO | Posture alert triggered.
+2026-03-07 15:06:33,233 | INFO | Posture alert triggered.
+2026-03-07 15:06:33,339 | INFO | Posture alert triggered.
+2026-03-07 15:06:33,461 | INFO | Posture alert triggered.
+2026-03-07 15:06:33,593 | INFO | Posture alert triggered.
+2026-03-07 15:06:33,727 | INFO | Posture alert triggered.
+2026-03-07 15:06:33,853 | INFO | Posture alert triggered.
+2026-03-07 15:06:33,986 | INFO | Posture alert triggered.
+2026-03-07 15:06:34,115 | INFO | Posture alert triggered.
+2026-03-07 15:06:34,238 | INFO | Posture alert triggered.
+2026-03-07 15:06:34,370 | INFO | Posture alert triggered.
+2026-03-07 15:06:34,487 | INFO | Posture alert triggered.
+2026-03-07 15:06:34,610 | INFO | Posture alert triggered.
+2026-03-07 15:06:34,731 | INFO | Posture alert triggered.
+2026-03-07 15:06:34,860 | INFO | Posture alert triggered.
+2026-03-07 15:06:34,984 | INFO | Posture alert triggered.
+2026-03-07 15:06:35,097 | INFO | Posture alert triggered.
+2026-03-07 15:06:35,234 | INFO | Posture alert triggered.
+2026-03-07 15:06:35,373 | INFO | Posture alert triggered.
+2026-03-07 15:06:35,501 | INFO | Posture alert triggered.
+2026-03-07 15:06:35,623 | INFO | Posture alert triggered.
+2026-03-07 15:06:35,756 | INFO | Posture alert triggered.
+2026-03-07 15:06:35,863 | INFO | Posture alert triggered.
+2026-03-07 15:06:35,985 | INFO | Posture alert triggered.
+2026-03-07 15:06:36,112 | INFO | Posture alert triggered.
+2026-03-07 15:06:36,230 | INFO | Posture alert triggered.
+2026-03-07 15:06:36,352 | INFO | Posture alert triggered.
+2026-03-07 15:06:36,478 | INFO | Posture alert triggered.
+2026-03-07 15:06:36,595 | INFO | Posture alert triggered.
+2026-03-07 15:06:36,728 | INFO | Posture alert triggered.
+2026-03-07 15:06:36,862 | INFO | Posture alert triggered.
+2026-03-07 15:06:36,984 | INFO | Posture alert triggered.
+2026-03-07 15:06:37,102 | INFO | Posture alert triggered.
+2026-03-07 15:06:37,224 | INFO | Posture alert triggered.
+2026-03-07 15:06:37,339 | INFO | Posture alert triggered.
+2026-03-07 15:06:37,469 | INFO | Posture alert triggered.
+2026-03-07 15:06:37,600 | INFO | Posture alert triggered.
+2026-03-07 15:06:37,718 | INFO | Posture alert triggered.
+2026-03-07 15:06:37,847 | INFO | Posture alert triggered.
+2026-03-07 15:06:37,977 | INFO | Posture alert triggered.
+2026-03-07 15:06:38,115 | INFO | Posture alert triggered.
+2026-03-07 15:06:38,216 | INFO | Posture alert triggered.
+2026-03-07 15:06:38,342 | INFO | Posture alert triggered.
+2026-03-07 15:06:38,450 | INFO | Posture alert triggered.
+2026-03-07 15:06:38,569 | INFO | Posture alert triggered.
+2026-03-07 15:06:38,680 | INFO | Posture alert triggered.
+2026-03-07 15:06:38,807 | INFO | Posture alert triggered.
+2026-03-07 15:06:38,932 | INFO | Posture alert triggered.
+2026-03-07 15:06:39,050 | INFO | Posture alert triggered.
+2026-03-07 15:06:39,178 | INFO | Posture alert triggered.
+2026-03-07 15:06:39,292 | INFO | Posture alert triggered.
+2026-03-07 15:06:39,415 | INFO | Posture alert triggered.
+2026-03-07 15:06:39,537 | INFO | Posture alert triggered.
+2026-03-07 15:06:39,664 | INFO | Posture alert triggered.
+2026-03-07 15:06:39,782 | INFO | Posture alert triggered.
+2026-03-07 15:06:39,907 | INFO | Posture alert triggered.
+2026-03-07 15:06:40,027 | INFO | Posture alert triggered.
+2026-03-07 15:06:40,143 | INFO | Posture alert triggered.
+2026-03-07 15:06:40,281 | INFO | Posture alert triggered.
+2026-03-07 15:06:40,408 | INFO | Posture alert triggered.
+2026-03-07 15:06:40,525 | INFO | Posture alert triggered.
+2026-03-07 15:06:40,652 | INFO | Posture alert triggered.
+2026-03-07 15:06:40,781 | INFO | Posture alert triggered.
+2026-03-07 15:06:40,900 | INFO | Posture alert triggered.
+2026-03-07 15:06:41,019 | INFO | Posture alert triggered.
+2026-03-07 15:06:41,161 | INFO | Posture alert triggered.
+2026-03-07 15:06:41,287 | INFO | Posture alert triggered.
+2026-03-07 15:06:41,413 | INFO | Posture alert triggered.
+2026-03-07 15:06:41,532 | INFO | Posture alert triggered.
+2026-03-07 15:06:41,661 | INFO | Posture alert triggered.
+2026-03-07 15:06:41,788 | INFO | Posture alert triggered.
+2026-03-07 15:06:41,909 | INFO | Posture alert triggered.
+2026-03-07 15:06:42,033 | INFO | Posture alert triggered.
+2026-03-07 15:06:42,155 | INFO | Posture alert triggered.
+2026-03-07 15:06:42,285 | INFO | Posture alert triggered.
+2026-03-07 15:06:42,404 | INFO | Posture alert triggered.
+2026-03-07 15:06:42,537 | INFO | Posture alert triggered.
+2026-03-07 15:06:42,660 | INFO | Posture alert triggered.
+2026-03-07 15:06:42,766 | INFO | Posture alert triggered.
+2026-03-07 15:06:42,899 | INFO | Posture alert triggered.
+2026-03-07 15:06:43,034 | INFO | Posture alert triggered.
+2026-03-07 15:06:43,162 | INFO | Posture alert triggered.
+2026-03-07 15:06:43,286 | INFO | Posture alert triggered.
+2026-03-07 15:06:43,414 | INFO | Posture alert triggered.
+2026-03-07 15:06:43,536 | INFO | Posture alert triggered.
+2026-03-07 15:06:43,660 | INFO | Posture alert triggered.
+2026-03-07 15:06:43,784 | INFO | Posture alert triggered.
+2026-03-07 15:06:43,903 | INFO | Posture alert triggered.
+2026-03-07 15:06:44,006 | INFO | Posture alert triggered.
+2026-03-07 15:06:44,127 | INFO | Posture alert triggered.
+2026-03-07 15:06:44,254 | INFO | Posture alert triggered.
+2026-03-07 15:06:44,367 | INFO | Posture alert triggered.
+2026-03-07 15:06:44,483 | INFO | Posture alert triggered.
+2026-03-07 15:06:44,595 | INFO | Posture alert triggered.
+2026-03-07 15:06:44,719 | INFO | Posture alert triggered.
+2026-03-07 15:06:44,835 | INFO | Posture alert triggered.
+2026-03-07 15:06:44,950 | INFO | Posture alert triggered.
+2026-03-07 15:06:45,077 | INFO | Posture alert triggered.
+2026-03-07 15:06:45,196 | INFO | Posture alert triggered.
+2026-03-07 15:06:45,312 | INFO | Posture alert triggered.
+2026-03-07 15:06:45,426 | INFO | Posture alert triggered.
+2026-03-07 15:06:45,542 | INFO | Posture alert triggered.
+2026-03-07 15:06:45,646 | INFO | Posture alert triggered.
+2026-03-07 15:06:45,764 | INFO | Posture alert triggered.
+2026-03-07 15:06:45,891 | INFO | Posture alert triggered.
+2026-03-07 15:06:46,022 | INFO | Posture alert triggered.
+2026-03-07 15:06:46,150 | INFO | Posture alert triggered.
+2026-03-07 15:06:46,252 | INFO | Posture alert triggered.
+2026-03-07 15:06:46,370 | INFO | Posture alert triggered.
+2026-03-07 15:06:46,497 | INFO | Posture alert triggered.
+2026-03-07 15:06:46,634 | INFO | Posture alert triggered.
+2026-03-07 15:06:46,779 | INFO | Posture alert triggered.
+2026-03-07 15:06:46,914 | INFO | Posture alert triggered.
+2026-03-07 15:06:47,052 | INFO | Posture alert triggered.
+2026-03-07 15:06:47,181 | INFO | Posture alert triggered.
+2026-03-07 15:06:47,308 | INFO | Posture alert triggered.
+2026-03-07 15:06:47,424 | INFO | Posture alert triggered.
+2026-03-07 15:06:47,555 | INFO | Posture alert triggered.
+2026-03-07 15:06:47,679 | INFO | Posture alert triggered.
+2026-03-07 15:06:47,800 | INFO | Posture alert triggered.
+2026-03-07 15:06:47,927 | INFO | Posture alert triggered.
+2026-03-07 15:06:48,047 | INFO | Posture alert triggered.
+2026-03-07 15:06:48,181 | INFO | Posture alert triggered.
+2026-03-07 15:06:48,300 | INFO | Posture alert triggered.
+2026-03-07 15:06:48,436 | INFO | Posture alert triggered.
+2026-03-07 15:06:48,534 | INFO | Posture alert triggered.
+2026-03-07 15:06:48,667 | INFO | Posture alert triggered.
+2026-03-07 15:06:48,735 | INFO | Posture alert triggered.
+2026-03-07 15:06:48,793 | INFO | Posture alert triggered.
+2026-03-07 15:06:48,837 | INFO | Posture alert triggered.
+2026-03-07 15:06:48,886 | INFO | Posture alert triggered.
+2026-03-07 15:06:48,934 | INFO | Posture alert triggered.
+2026-03-07 15:06:48,979 | INFO | Posture alert triggered.
+2026-03-07 15:06:49,029 | INFO | Posture alert triggered.
+2026-03-07 15:06:49,074 | INFO | Posture alert triggered.
+2026-03-07 15:06:49,120 | INFO | Posture alert triggered.
+2026-03-07 15:06:49,167 | INFO | Posture alert triggered.
+2026-03-07 15:06:49,218 | INFO | Posture alert triggered.
+2026-03-07 15:06:49,264 | INFO | Posture alert triggered.
+2026-03-07 15:06:49,308 | INFO | Posture alert triggered.
+2026-03-07 15:06:49,358 | INFO | Posture alert triggered.
+2026-03-07 15:06:49,401 | INFO | Posture alert triggered.
+2026-03-07 15:06:49,446 | INFO | Posture alert triggered.
+2026-03-07 15:06:49,500 | INFO | Posture alert triggered.
+2026-03-07 15:06:49,538 | INFO | Posture alert triggered.
+2026-03-07 15:06:49,588 | INFO | Posture alert triggered.
+2026-03-07 15:06:49,630 | INFO | Posture alert triggered.
+2026-03-07 15:06:49,681 | INFO | Posture alert triggered.
+2026-03-07 15:06:49,731 | INFO | Posture alert triggered.
+2026-03-07 15:06:49,774 | INFO | Posture alert triggered.
+2026-03-07 15:06:49,817 | INFO | Posture alert triggered.
+2026-03-07 15:06:49,875 | INFO | Posture alert triggered.
+2026-03-07 15:06:49,936 | INFO | Posture alert triggered.
+2026-03-07 15:06:49,990 | INFO | Posture alert triggered.
+2026-03-07 15:06:50,037 | INFO | Posture alert triggered.
+2026-03-07 15:06:50,091 | INFO | Posture alert triggered.
+2026-03-07 15:06:50,129 | INFO | Posture alert triggered.
+2026-03-07 15:06:50,176 | INFO | Posture alert triggered.
+2026-03-07 15:06:50,222 | INFO | Posture alert triggered.
+2026-03-07 15:06:50,270 | INFO | Posture alert triggered.
+2026-03-07 15:06:50,318 | INFO | Posture alert triggered.
+2026-03-07 15:06:50,364 | INFO | Posture alert triggered.
+2026-03-07 15:06:50,412 | INFO | Posture alert triggered.
+2026-03-07 15:06:50,459 | INFO | Posture alert triggered.
+2026-03-07 15:06:50,504 | INFO | Posture alert triggered.
+2026-03-07 15:06:50,556 | INFO | Posture alert triggered.
+2026-03-07 15:06:50,598 | INFO | Posture alert triggered.
+2026-03-07 15:06:50,650 | INFO | Posture alert triggered.
+2026-03-07 15:06:50,685 | INFO | Posture alert triggered.
+2026-03-07 15:06:50,730 | INFO | Posture alert triggered.
+2026-03-07 15:06:50,783 | INFO | Posture alert triggered.
+2026-03-07 15:06:50,830 | INFO | Posture alert triggered.
+2026-03-07 15:06:50,894 | INFO | Posture alert triggered.
+2026-03-07 15:06:50,937 | INFO | Posture alert triggered.
+2026-03-07 15:06:50,980 | INFO | Posture alert triggered.
+2026-03-07 15:06:51,029 | INFO | Posture alert triggered.
+2026-03-07 15:06:51,075 | INFO | Posture alert triggered.
+2026-03-07 15:06:51,122 | INFO | Posture alert triggered.
+2026-03-07 15:06:51,167 | INFO | Posture alert triggered.
+2026-03-07 15:06:51,216 | INFO | Posture alert triggered.
+2026-03-07 15:06:51,263 | INFO | Posture alert triggered.
+2026-03-07 15:06:51,307 | INFO | Posture alert triggered.
+2026-03-07 15:06:51,354 | INFO | Posture alert triggered.
+2026-03-07 15:06:51,401 | INFO | Posture alert triggered.
+2026-03-07 15:06:51,449 | INFO | Posture alert triggered.
+2026-03-07 15:06:51,497 | INFO | Posture alert triggered.
+2026-03-07 15:06:51,544 | INFO | Posture alert triggered.
+2026-03-07 15:06:51,593 | INFO | Posture alert triggered.
+2026-03-07 15:06:51,632 | INFO | Posture alert triggered.
+2026-03-07 15:06:51,679 | INFO | Posture alert triggered.
+2026-03-07 15:06:51,737 | INFO | Posture alert triggered.
+2026-03-07 15:06:51,789 | INFO | Posture alert triggered.
+2026-03-07 15:06:51,835 | INFO | Posture alert triggered.
+2026-03-07 15:06:51,880 | INFO | Posture alert triggered.
+2026-03-07 15:06:51,930 | INFO | Posture alert triggered.
+2026-03-07 15:06:51,978 | INFO | Posture alert triggered.
+2026-03-07 15:06:52,025 | INFO | Posture alert triggered.
+2026-03-07 15:06:52,067 | INFO | Posture alert triggered.
+2026-03-07 15:06:52,114 | INFO | Posture alert triggered.
+2026-03-07 15:06:52,164 | INFO | Posture alert triggered.
+2026-03-07 15:06:52,210 | INFO | Posture alert triggered.
+2026-03-07 15:06:52,253 | INFO | Posture alert triggered.
+2026-03-07 15:06:52,302 | INFO | Posture alert triggered.
+2026-03-07 15:06:52,348 | INFO | Posture alert triggered.
+2026-03-07 15:06:52,392 | INFO | Posture alert triggered.
+2026-03-07 15:06:52,442 | INFO | Posture alert triggered.
+2026-03-07 15:06:52,484 | INFO | Posture alert triggered.
+2026-03-07 15:06:52,531 | INFO | Posture alert triggered.
+2026-03-07 15:06:52,579 | INFO | Posture alert triggered.
+2026-03-07 15:06:52,628 | INFO | Posture alert triggered.
+2026-03-07 15:06:52,671 | INFO | Posture alert triggered.
+2026-03-07 15:06:52,720 | INFO | Posture alert triggered.
+2026-03-07 15:06:52,768 | INFO | Posture alert triggered.
+2026-03-07 15:06:52,812 | INFO | Posture alert triggered.
+2026-03-07 15:06:52,856 | INFO | Posture alert triggered.
+2026-03-07 15:06:52,901 | INFO | Posture alert triggered.
+2026-03-07 15:06:52,950 | INFO | Posture alert triggered.
+2026-03-07 15:06:52,999 | INFO | Posture alert triggered.
+2026-03-07 15:06:53,047 | INFO | Posture alert triggered.
+2026-03-07 15:06:53,092 | INFO | Posture alert triggered.
+2026-03-07 15:06:53,139 | INFO | Posture alert triggered.
+2026-03-07 15:06:53,182 | INFO | Posture alert triggered.
+2026-03-07 15:06:53,219 | INFO | Posture alert triggered.
+2026-03-07 15:06:53,262 | INFO | Posture alert triggered.
+2026-03-07 15:06:53,306 | INFO | Posture alert triggered.
+2026-03-07 15:06:53,354 | INFO | Posture alert triggered.
+2026-03-07 15:06:53,401 | INFO | Posture alert triggered.
+2026-03-07 15:06:53,445 | INFO | Posture alert triggered.
+2026-03-07 15:06:53,493 | INFO | Posture alert triggered.
+2026-03-07 15:06:53,539 | INFO | Posture alert triggered.
+2026-03-07 15:06:53,586 | INFO | Posture alert triggered.
+2026-03-07 15:06:53,635 | INFO | Posture alert triggered.
+2026-03-07 15:06:53,677 | INFO | Posture alert triggered.
+2026-03-07 15:06:53,724 | INFO | Posture alert triggered.
+2026-03-07 15:06:53,776 | INFO | Posture alert triggered.
+2026-03-07 15:06:53,825 | INFO | Posture alert triggered.
+2026-03-07 15:06:53,866 | INFO | Posture alert triggered.
+2026-03-07 15:06:53,913 | INFO | Posture alert triggered.
+2026-03-07 15:06:53,957 | INFO | Posture alert triggered.
+2026-03-07 15:06:54,006 | INFO | Posture alert triggered.
+2026-03-07 15:06:54,051 | INFO | Posture alert triggered.
+2026-03-07 15:06:54,101 | INFO | Posture alert triggered.
+2026-03-07 15:06:54,140 | INFO | Posture alert triggered.
+2026-03-07 15:06:54,185 | INFO | Posture alert triggered.
+2026-03-07 15:06:54,237 | INFO | Posture alert triggered.
+2026-03-07 15:06:54,283 | INFO | Posture alert triggered.
+2026-03-07 15:06:54,349 | INFO | Posture alert triggered.
+2026-03-07 15:06:54,397 | INFO | Posture alert triggered.
+2026-03-07 15:06:54,436 | INFO | Posture alert triggered.
+2026-03-07 15:06:54,485 | INFO | Posture alert triggered.
+2026-03-07 15:06:54,532 | INFO | Posture alert triggered.
+2026-03-07 15:06:54,580 | INFO | Posture alert triggered.
+2026-03-07 15:06:54,624 | INFO | Posture alert triggered.
+2026-03-07 15:06:54,670 | INFO | Posture alert triggered.
+2026-03-07 15:06:54,727 | INFO | Posture alert triggered.
+2026-03-07 15:06:54,783 | INFO | Posture alert triggered.
+2026-03-07 15:06:54,829 | INFO | Posture alert triggered.
+2026-03-07 15:06:54,873 | INFO | Posture alert triggered.
+2026-03-07 15:06:54,919 | INFO | Posture alert triggered.
+2026-03-07 15:06:54,969 | INFO | Posture alert triggered.
+2026-03-07 15:06:55,016 | INFO | Posture alert triggered.
+2026-03-07 15:06:55,064 | INFO | Posture alert triggered.
+2026-03-07 15:06:55,107 | INFO | Posture alert triggered.
+2026-03-07 15:06:55,157 | INFO | Posture alert triggered.
+2026-03-07 15:06:55,200 | INFO | Posture alert triggered.
+2026-03-07 15:06:55,251 | INFO | Posture alert triggered.
+2026-03-07 15:06:55,296 | INFO | Posture alert triggered.
+2026-03-07 15:06:55,338 | INFO | Posture alert triggered.
+2026-03-07 15:06:55,412 | INFO | Posture alert triggered.
+2026-03-07 15:06:55,466 | INFO | Posture alert triggered.
+2026-03-07 15:06:55,521 | INFO | Posture alert triggered.
+2026-03-07 15:06:55,576 | INFO | Posture alert triggered.
+2026-03-07 15:06:55,620 | INFO | Posture alert triggered.
+2026-03-07 15:06:55,668 | INFO | Posture alert triggered.
+2026-03-07 15:06:55,719 | INFO | Posture alert triggered.
+2026-03-07 15:06:55,764 | INFO | Posture alert triggered.
+2026-03-07 15:06:55,802 | INFO | Posture alert triggered.
+2026-03-07 15:06:55,856 | INFO | Posture alert triggered.
+2026-03-07 15:06:55,907 | INFO | Posture alert triggered.
+2026-03-07 15:06:55,966 | INFO | Posture alert triggered.
+2026-03-07 15:06:56,014 | INFO | Posture alert triggered.
+2026-03-07 15:06:56,056 | INFO | Posture alert triggered.
+2026-03-07 15:06:56,101 | INFO | Posture alert triggered.
+2026-03-07 15:06:56,146 | INFO | Posture alert triggered.
+2026-03-07 15:06:56,201 | INFO | Posture alert triggered.
+2026-03-07 15:06:56,246 | INFO | Posture alert triggered.
+2026-03-07 15:06:56,289 | INFO | Posture alert triggered.
+2026-03-07 15:06:56,335 | INFO | Posture alert triggered.
+2026-03-07 15:06:56,384 | INFO | Posture alert triggered.
+2026-03-07 15:06:56,434 | INFO | Posture alert triggered.
+2026-03-07 15:06:56,481 | INFO | Posture alert triggered.
+2026-03-07 15:06:56,523 | INFO | Posture alert triggered.
+2026-03-07 15:06:56,573 | INFO | Posture alert triggered.
+2026-03-07 15:06:56,617 | INFO | Posture alert triggered.
+2026-03-07 15:06:56,665 | INFO | Posture alert triggered.
+2026-03-07 15:06:56,705 | INFO | Posture alert triggered.
+2026-03-07 15:06:56,759 | INFO | Posture alert triggered.
+2026-03-07 15:06:56,802 | INFO | Posture alert triggered.
+2026-03-07 15:06:56,851 | INFO | Posture alert triggered.
+2026-03-07 15:06:56,894 | INFO | Posture alert triggered.
+2026-03-07 15:06:56,940 | INFO | Posture alert triggered.
+2026-03-07 15:06:56,988 | INFO | Posture alert triggered.
+2026-03-07 15:06:57,035 | INFO | Posture alert triggered.
+2026-03-07 15:06:57,086 | INFO | Posture alert triggered.
+2026-03-07 15:06:57,130 | INFO | Posture alert triggered.
+2026-03-07 15:06:57,174 | INFO | Posture alert triggered.
+2026-03-07 15:06:57,226 | INFO | Posture alert triggered.
+2026-03-07 15:06:57,270 | INFO | Posture alert triggered.
+2026-03-07 15:06:57,316 | INFO | Posture alert triggered.
+2026-03-07 15:06:57,369 | INFO | Posture alert triggered.
+2026-03-07 15:06:57,409 | INFO | Posture alert triggered.
+2026-03-07 15:06:57,458 | INFO | Posture alert triggered.
+2026-03-07 15:06:57,506 | INFO | Posture alert triggered.
+2026-03-07 15:06:57,552 | INFO | Posture alert triggered.
+2026-03-07 15:06:57,600 | INFO | Posture alert triggered.
+2026-03-07 15:06:57,648 | INFO | Posture alert triggered.
+2026-03-07 15:06:57,689 | INFO | Posture alert triggered.
+2026-03-07 15:06:57,739 | INFO | Posture alert triggered.
+2026-03-07 15:06:57,782 | INFO | Posture alert triggered.
+2026-03-07 15:06:57,818 | INFO | Posture alert triggered.
+2026-03-07 15:06:57,863 | INFO | Posture alert triggered.
+2026-03-07 15:06:57,912 | INFO | Posture alert triggered.
+2026-03-07 15:06:57,953 | INFO | Posture alert triggered.
+2026-03-07 15:06:58,000 | INFO | Posture alert triggered.
+2026-03-07 15:06:58,058 | INFO | Posture alert triggered.
+2026-03-07 15:06:58,110 | INFO | Posture alert triggered.
+2026-03-07 15:06:58,158 | INFO | Posture alert triggered.
+2026-03-07 15:06:58,203 | INFO | Posture alert triggered.
+2026-03-07 15:06:58,267 | INFO | Posture alert triggered.
+2026-03-07 15:06:58,313 | INFO | Posture alert triggered.
+2026-03-07 15:06:58,363 | INFO | Posture alert triggered.
+2026-03-07 15:06:58,410 | INFO | Posture alert triggered.
+2026-03-07 15:06:58,451 | INFO | Posture alert triggered.
+2026-03-07 15:06:58,502 | INFO | Posture alert triggered.
+2026-03-07 15:06:58,546 | INFO | Posture alert triggered.
+2026-03-07 15:06:58,601 | INFO | Posture alert triggered.
+2026-03-07 15:06:58,638 | INFO | Posture alert triggered.
+2026-03-07 15:06:58,688 | INFO | Posture alert triggered.
+2026-03-07 15:06:58,737 | INFO | Posture alert triggered.
+2026-03-07 15:06:58,780 | INFO | Posture alert triggered.
+2026-03-07 15:06:58,827 | INFO | Posture alert triggered.
+2026-03-07 15:06:58,876 | INFO | Posture alert triggered.
+2026-03-07 15:06:58,924 | INFO | Posture alert triggered.
+2026-03-07 15:06:58,968 | INFO | Posture alert triggered.
+2026-03-07 15:06:59,003 | INFO | Posture alert triggered.
+2026-03-07 15:06:59,048 | INFO | Posture alert triggered.
+2026-03-07 15:06:59,090 | INFO | Posture alert triggered.
+2026-03-07 15:06:59,137 | INFO | Posture alert triggered.
+2026-03-07 15:06:59,193 | INFO | Posture alert triggered.
+2026-03-07 15:06:59,231 | INFO | Posture alert triggered.
+2026-03-07 15:06:59,278 | INFO | Posture alert triggered.
+2026-03-07 15:06:59,324 | INFO | Posture alert triggered.
+2026-03-07 15:06:59,371 | INFO | Posture alert triggered.
+2026-03-07 15:06:59,423 | INFO | Posture alert triggered.
+2026-03-07 15:06:59,463 | INFO | Posture alert triggered.
+2026-03-07 15:06:59,510 | INFO | Posture alert triggered.
+2026-03-07 15:06:59,558 | INFO | Posture alert triggered.
+2026-03-07 15:06:59,605 | INFO | Posture alert triggered.
+2026-03-07 15:06:59,652 | INFO | Posture alert triggered.
+2026-03-07 15:06:59,699 | INFO | Posture alert triggered.
+2026-03-07 15:06:59,745 | INFO | Posture alert triggered.
+2026-03-07 15:06:59,792 | INFO | Posture alert triggered.
+2026-03-07 15:06:59,837 | INFO | Posture alert triggered.
+2026-03-07 15:06:59,884 | INFO | Posture alert triggered.
+2026-03-07 15:06:59,933 | INFO | Posture alert triggered.
+2026-03-07 15:06:59,977 | INFO | Posture alert triggered.
+2026-03-07 15:07:00,039 | INFO | Posture alert triggered.
+2026-03-07 15:07:00,089 | INFO | Posture alert triggered.
+2026-03-07 15:07:00,132 | INFO | Posture alert triggered.
+2026-03-07 15:07:00,176 | INFO | Posture alert triggered.
+2026-03-07 15:07:00,224 | INFO | Posture alert triggered.
+2026-03-07 15:07:00,269 | INFO | Posture alert triggered.
+2026-03-07 15:07:00,318 | INFO | Posture alert triggered.
+2026-03-07 15:07:00,374 | INFO | Posture alert triggered.
+2026-03-07 15:07:00,416 | INFO | Posture alert triggered.
+2026-03-07 15:07:00,469 | INFO | Posture alert triggered.
+2026-03-07 15:07:00,515 | INFO | Posture alert triggered.
+2026-03-07 15:07:00,553 | INFO | Posture alert triggered.
+2026-03-07 15:07:00,593 | INFO | Posture alert triggered.
+2026-03-07 15:07:00,647 | INFO | Posture alert triggered.
+2026-03-07 15:07:00,697 | INFO | Posture alert triggered.
+2026-03-07 15:07:00,739 | INFO | Posture alert triggered.
+2026-03-07 15:07:00,908 | INFO | Posture alert triggered.
+2026-03-07 15:07:01,057 | INFO | Posture alert triggered.
+2026-03-07 15:07:01,170 | INFO | Posture alert triggered.
+2026-03-07 15:07:01,305 | INFO | Posture alert triggered.
+2026-03-07 15:07:01,428 | INFO | Posture alert triggered.
+2026-03-07 15:07:01,561 | INFO | Posture alert triggered.
+2026-03-07 15:07:01,697 | INFO | Posture alert triggered.
+2026-03-07 15:07:01,824 | INFO | Posture alert triggered.
+2026-03-07 15:07:01,940 | INFO | Posture alert triggered.
+2026-03-07 15:07:02,071 | INFO | Posture alert triggered.
+2026-03-07 15:07:02,195 | INFO | Posture alert triggered.
+2026-03-07 15:07:02,320 | INFO | Posture alert triggered.
+2026-03-07 15:07:02,425 | INFO | Posture alert triggered.
+2026-03-07 15:07:02,540 | INFO | Posture alert triggered.
+2026-03-07 15:07:02,664 | INFO | Posture alert triggered.
+2026-03-07 15:07:02,790 | INFO | Posture alert triggered.
+2026-03-07 15:07:02,927 | INFO | Posture alert triggered.
+2026-03-07 15:07:03,030 | INFO | Posture alert triggered.
+2026-03-07 15:07:03,164 | INFO | Posture alert triggered.
+2026-03-07 15:07:03,300 | INFO | Posture alert triggered.
+2026-03-07 15:07:03,408 | INFO | Posture alert triggered.
+2026-03-07 15:07:03,541 | INFO | Posture alert triggered.
+2026-03-07 15:07:03,667 | INFO | Posture alert triggered.
+2026-03-07 15:07:03,783 | INFO | Posture alert triggered.
+2026-03-07 15:07:03,914 | INFO | Posture alert triggered.
+2026-03-07 15:07:04,016 | INFO | Posture alert triggered.
+2026-03-07 15:07:04,125 | INFO | Posture alert triggered.
+2026-03-07 15:07:04,243 | INFO | Posture alert triggered.
+2026-03-07 15:07:04,348 | INFO | Posture alert triggered.
+2026-03-07 15:07:04,464 | INFO | Posture alert triggered.
+2026-03-07 15:07:04,572 | INFO | Posture alert triggered.
+2026-03-07 15:07:04,689 | INFO | Posture alert triggered.
+2026-03-07 15:07:04,816 | INFO | Posture alert triggered.
+2026-03-07 15:07:04,934 | INFO | Posture alert triggered.
+2026-03-07 15:07:05,060 | INFO | Posture alert triggered.
+2026-03-07 15:07:05,195 | INFO | Posture alert triggered.
+2026-03-07 15:07:05,315 | INFO | Posture alert triggered.
+2026-03-07 15:07:05,423 | INFO | Posture alert triggered.
+2026-03-07 15:07:05,547 | INFO | Posture alert triggered.
+2026-03-07 15:07:05,670 | INFO | Posture alert triggered.
+2026-03-07 15:07:05,780 | INFO | Posture alert triggered.
+2026-03-07 15:07:05,919 | INFO | Posture alert triggered.
+2026-03-07 15:07:06,044 | INFO | Posture alert triggered.
+2026-03-07 15:07:06,176 | INFO | Posture alert triggered.
+2026-03-07 15:07:06,319 | INFO | Posture alert triggered.
+2026-03-07 15:07:06,446 | INFO | Posture alert triggered.
+2026-03-07 15:07:06,561 | INFO | Posture alert triggered.
+2026-03-07 15:07:06,682 | INFO | Posture alert triggered.
+2026-03-07 15:07:06,792 | INFO | Posture alert triggered.
+2026-03-07 15:07:06,914 | INFO | Posture alert triggered.
+2026-03-07 15:07:07,047 | INFO | Posture alert triggered.
+2026-03-07 15:07:07,181 | INFO | Posture alert triggered.
+2026-03-07 15:07:07,298 | INFO | Posture alert triggered.
+2026-03-07 15:07:07,430 | INFO | Posture alert triggered.
+2026-03-07 15:07:07,549 | INFO | Posture alert triggered.
+2026-03-07 15:07:07,669 | INFO | Posture alert triggered.
+2026-03-07 15:07:07,805 | INFO | Posture alert triggered.
+2026-03-07 15:07:07,939 | INFO | Posture alert triggered.
+2026-03-07 15:07:08,063 | INFO | Posture alert triggered.
+2026-03-07 15:07:08,188 | INFO | Posture alert triggered.
+2026-03-07 15:07:08,307 | INFO | Posture alert triggered.
+2026-03-07 15:07:08,449 | INFO | Posture alert triggered.
+2026-03-07 15:07:08,575 | INFO | Posture alert triggered.
+2026-03-07 15:07:08,698 | INFO | Posture alert triggered.
+2026-03-07 15:07:08,834 | INFO | Posture alert triggered.
+2026-03-07 15:07:08,951 | INFO | Posture alert triggered.
+2026-03-07 15:07:09,074 | INFO | Posture alert triggered.
+2026-03-07 15:07:09,194 | INFO | Posture alert triggered.
+2026-03-07 15:07:09,333 | INFO | Posture alert triggered.
+2026-03-07 15:07:09,461 | INFO | Posture alert triggered.
+2026-03-07 15:07:09,592 | INFO | Posture alert triggered.
+2026-03-07 15:07:09,702 | INFO | Posture alert triggered.
+2026-03-07 15:07:09,822 | INFO | Posture alert triggered.
+2026-03-07 15:07:09,949 | INFO | Posture alert triggered.
+2026-03-07 15:07:10,070 | INFO | Posture alert triggered.
+2026-03-07 15:07:10,213 | INFO | Posture alert triggered.
+2026-03-07 15:07:10,321 | INFO | Posture alert triggered.
+2026-03-07 15:07:10,439 | INFO | Posture alert triggered.
+2026-03-07 15:07:10,572 | INFO | Posture alert triggered.
+2026-03-07 15:07:10,690 | INFO | Posture alert triggered.
+2026-03-07 15:07:10,825 | INFO | Posture alert triggered.
+2026-03-07 15:07:10,930 | INFO | Posture alert triggered.
+2026-03-07 15:07:11,047 | INFO | Posture alert triggered.
+2026-03-07 15:07:11,173 | INFO | Posture alert triggered.
+2026-03-07 15:07:11,304 | INFO | Posture alert triggered.
+2026-03-07 15:07:11,427 | INFO | Posture alert triggered.
+2026-03-07 15:07:11,549 | INFO | Posture alert triggered.
+2026-03-07 15:07:11,665 | INFO | Posture alert triggered.
+2026-03-07 15:07:11,793 | INFO | Posture alert triggered.
+2026-03-07 15:07:11,922 | INFO | Posture alert triggered.
+2026-03-07 15:07:12,022 | INFO | Posture alert triggered.
+2026-03-07 15:07:12,122 | INFO | Posture alert triggered.
+2026-03-07 15:07:12,230 | INFO | Posture alert triggered.
+2026-03-07 15:07:12,358 | INFO | Posture alert triggered.
+2026-03-07 15:07:12,492 | INFO | Posture alert triggered.
+2026-03-07 15:07:12,626 | INFO | Posture alert triggered.
+2026-03-07 15:07:12,766 | INFO | Posture alert triggered.
+2026-03-07 15:07:12,901 | INFO | Posture alert triggered.
+2026-03-07 15:07:13,033 | INFO | Posture alert triggered.
+2026-03-07 15:07:13,154 | INFO | Posture alert triggered.
+2026-03-07 15:07:13,270 | INFO | Posture alert triggered.
+2026-03-07 15:07:13,402 | INFO | Posture alert triggered.
+2026-03-07 15:07:13,519 | INFO | Posture alert triggered.
+2026-03-07 15:07:13,640 | INFO | Posture alert triggered.
+2026-03-07 15:07:13,773 | INFO | Posture alert triggered.
+2026-03-07 15:07:13,907 | INFO | Posture alert triggered.
+2026-03-07 15:07:14,032 | INFO | Posture alert triggered.
+2026-03-07 15:07:14,154 | INFO | Posture alert triggered.
+2026-03-07 15:07:14,272 | INFO | Posture alert triggered.
+2026-03-07 15:07:14,417 | INFO | Posture alert triggered.
+2026-03-07 15:07:14,555 | INFO | Posture alert triggered.
+2026-03-07 15:07:14,670 | INFO | Posture alert triggered.
+2026-03-07 15:07:14,815 | INFO | Posture alert triggered.
+2026-03-07 15:07:14,941 | INFO | Posture alert triggered.
+2026-03-07 15:07:15,070 | INFO | Posture alert triggered.
+2026-03-07 15:07:15,191 | INFO | Posture alert triggered.
+2026-03-07 15:07:15,308 | INFO | Posture alert triggered.
+2026-03-07 15:07:15,412 | INFO | Posture alert triggered.
+2026-03-07 15:07:15,531 | INFO | Posture alert triggered.
+2026-03-07 15:07:15,566 | INFO | Posture alert triggered.
+2026-03-07 15:07:15,614 | INFO | Posture alert triggered.
+2026-03-07 15:07:15,654 | INFO | Posture alert triggered.
+2026-03-07 15:07:15,700 | INFO | Posture alert triggered.
+2026-03-07 15:07:15,757 | INFO | Posture alert triggered.
+2026-03-07 15:07:15,798 | INFO | Posture alert triggered.
+2026-03-07 15:07:15,848 | INFO | Posture alert triggered.
+2026-03-07 15:07:15,893 | INFO | Posture alert triggered.
+2026-03-07 15:07:15,940 | INFO | Posture alert triggered.
+2026-03-07 15:07:15,986 | INFO | Posture alert triggered.
+2026-03-07 15:07:16,030 | INFO | Posture alert triggered.
+2026-03-07 15:07:16,071 | INFO | Posture alert triggered.
+2026-03-07 15:07:16,123 | INFO | Posture alert triggered.
+2026-03-07 15:07:16,159 | INFO | Posture alert triggered.
+2026-03-07 15:07:16,201 | INFO | Posture alert triggered.
+2026-03-07 15:07:16,246 | INFO | Posture alert triggered.
+2026-03-07 15:07:16,292 | INFO | Posture alert triggered.
+2026-03-07 15:07:16,342 | INFO | Posture alert triggered.
+2026-03-07 15:07:16,386 | INFO | Posture alert triggered.
+2026-03-07 15:07:16,435 | INFO | Posture alert triggered.
+2026-03-07 15:07:16,482 | INFO | Posture alert triggered.
+2026-03-07 15:07:16,530 | INFO | Posture alert triggered.
+2026-03-07 15:07:16,569 | INFO | Posture alert triggered.
+2026-03-07 15:07:16,631 | INFO | Posture alert triggered.
+2026-03-07 15:07:16,674 | INFO | Posture alert triggered.
+2026-03-07 15:07:16,712 | INFO | Posture alert triggered.
+2026-03-07 15:07:16,765 | INFO | Posture alert triggered.
+2026-03-07 15:07:16,802 | INFO | Posture alert triggered.
+2026-03-07 15:07:16,852 | INFO | Posture alert triggered.
+2026-03-07 15:07:16,900 | INFO | Posture alert triggered.
+2026-03-07 15:07:16,946 | INFO | Posture alert triggered.
+2026-03-07 15:07:16,994 | INFO | Posture alert triggered.
+2026-03-07 15:07:17,043 | INFO | Posture alert triggered.
+2026-03-07 15:07:17,085 | INFO | Posture alert triggered.
+2026-03-07 15:07:17,131 | INFO | Posture alert triggered.
+2026-03-07 15:07:17,181 | INFO | Posture alert triggered.
+2026-03-07 15:07:17,226 | INFO | Posture alert triggered.
+2026-03-07 15:07:17,273 | INFO | Posture alert triggered.
+2026-03-07 15:07:17,322 | INFO | Posture alert triggered.
+2026-03-07 15:07:17,364 | INFO | Posture alert triggered.
+2026-03-07 15:07:17,402 | INFO | Posture alert triggered.
+2026-03-07 15:07:17,444 | INFO | Posture alert triggered.
+2026-03-07 15:07:17,490 | INFO | Posture alert triggered.
+2026-03-07 15:07:17,539 | INFO | Posture alert triggered.
+2026-03-07 15:07:17,584 | INFO | Posture alert triggered.
+2026-03-07 15:07:17,632 | INFO | Posture alert triggered.
+2026-03-07 15:07:17,679 | INFO | Posture alert triggered.
+2026-03-07 15:07:17,722 | INFO | Posture alert triggered.
+2026-03-07 15:07:17,768 | INFO | Posture alert triggered.
+2026-03-07 15:07:17,818 | INFO | Posture alert triggered.
+2026-03-07 15:07:17,862 | INFO | Posture alert triggered.
+2026-03-07 15:07:17,916 | INFO | Posture alert triggered.
+2026-03-07 15:07:17,958 | INFO | Posture alert triggered.
+2026-03-07 15:07:18,003 | INFO | Posture alert triggered.
+2026-03-07 15:07:18,053 | INFO | Posture alert triggered.
+2026-03-07 15:07:18,099 | INFO | Posture alert triggered.
+2026-03-07 15:07:18,149 | INFO | Posture alert triggered.
+2026-03-07 15:07:18,191 | INFO | Posture alert triggered.
+2026-03-07 15:07:18,237 | INFO | Posture alert triggered.
+2026-03-07 15:07:18,283 | INFO | Posture alert triggered.
+2026-03-07 15:07:18,339 | INFO | Posture alert triggered.
+2026-03-07 15:07:18,379 | INFO | Posture alert triggered.
+2026-03-07 15:07:18,430 | INFO | Posture alert triggered.
+2026-03-07 15:07:18,470 | INFO | Posture alert triggered.
+2026-03-07 15:07:18,518 | INFO | Posture alert triggered.
+2026-03-07 15:07:18,566 | INFO | Posture alert triggered.
+2026-03-07 15:07:18,608 | INFO | Posture alert triggered.
+2026-03-07 15:07:18,653 | INFO | Posture alert triggered.
+2026-03-07 15:07:18,702 | INFO | Posture alert triggered.
+2026-03-07 15:07:18,745 | INFO | Posture alert triggered.
+2026-03-07 15:07:18,796 | INFO | Posture alert triggered.
+2026-03-07 15:07:18,841 | INFO | Posture alert triggered.
+2026-03-07 15:07:18,884 | INFO | Posture alert triggered.
+2026-03-07 15:07:18,933 | INFO | Posture alert triggered.
+2026-03-07 15:07:18,982 | INFO | Posture alert triggered.
+2026-03-07 15:07:19,030 | INFO | Posture alert triggered.
+2026-03-07 15:07:19,076 | INFO | Posture alert triggered.
+2026-03-07 15:07:19,120 | INFO | Posture alert triggered.
+2026-03-07 15:07:19,170 | INFO | Posture alert triggered.
+2026-03-07 15:07:19,212 | INFO | Posture alert triggered.
+2026-03-07 15:07:19,262 | INFO | Posture alert triggered.
+2026-03-07 15:07:19,306 | INFO | Posture alert triggered.
+2026-03-07 15:07:19,357 | INFO | Posture alert triggered.
+2026-03-07 15:07:19,398 | INFO | Posture alert triggered.
+2026-03-07 15:07:19,449 | INFO | Posture alert triggered.
+2026-03-07 15:07:19,489 | INFO | Posture alert triggered.
+2026-03-07 15:07:19,536 | INFO | Posture alert triggered.
+2026-03-07 15:07:19,586 | INFO | Posture alert triggered.
+2026-03-07 15:07:19,633 | INFO | Posture alert triggered.
+2026-03-07 15:07:19,678 | INFO | Posture alert triggered.
+2026-03-07 15:07:19,727 | INFO | Posture alert triggered.
+2026-03-07 15:07:19,771 | INFO | Posture alert triggered.
+2026-03-07 15:07:19,819 | INFO | Posture alert triggered.
+2026-03-07 15:07:19,862 | INFO | Posture alert triggered.
+2026-03-07 15:07:19,915 | INFO | Posture alert triggered.
+2026-03-07 15:07:19,958 | INFO | Posture alert triggered.
+2026-03-07 15:07:20,007 | INFO | Posture alert triggered.
+2026-03-07 15:07:20,049 | INFO | Posture alert triggered.
+2026-03-07 15:07:20,100 | INFO | Posture alert triggered.
+2026-03-07 15:07:20,145 | INFO | Posture alert triggered.
+2026-03-07 15:07:20,195 | INFO | Posture alert triggered.
+2026-03-07 15:07:20,242 | INFO | Posture alert triggered.
+2026-03-07 15:07:20,290 | INFO | Posture alert triggered.
+2026-03-07 15:07:20,335 | INFO | Posture alert triggered.
+2026-03-07 15:07:20,383 | INFO | Posture alert triggered.
+2026-03-07 15:07:20,442 | INFO | Posture alert triggered.
+2026-03-07 15:07:20,514 | INFO | Posture alert triggered.
+2026-03-07 15:07:20,569 | INFO | Posture alert triggered.
+2026-03-07 15:07:20,616 | INFO | Posture alert triggered.
+2026-03-07 15:07:20,662 | INFO | Posture alert triggered.
+2026-03-07 15:07:20,708 | INFO | Posture alert triggered.
+2026-03-07 15:07:20,757 | INFO | Posture alert triggered.
+2026-03-07 15:07:20,800 | INFO | Posture alert triggered.
+2026-03-07 15:07:20,846 | INFO | Posture alert triggered.
+2026-03-07 15:07:20,890 | INFO | Posture alert triggered.
+2026-03-07 15:07:20,938 | INFO | Posture alert triggered.
+2026-03-07 15:07:20,983 | INFO | Posture alert triggered.
+2026-03-07 15:07:21,047 | INFO | Posture alert triggered.
+2026-03-07 15:07:21,095 | INFO | Posture alert triggered.
+2026-03-07 15:07:21,140 | INFO | Posture alert triggered.
+2026-03-07 15:07:21,186 | INFO | Posture alert triggered.
+2026-03-07 15:07:21,234 | INFO | Posture alert triggered.
+2026-03-07 15:07:21,279 | INFO | Posture alert triggered.
+2026-03-07 15:07:21,325 | INFO | Posture alert triggered.
+2026-03-07 15:07:21,374 | INFO | Posture alert triggered.
+2026-03-07 15:07:21,415 | INFO | Posture alert triggered.
+2026-03-07 15:07:21,461 | INFO | Posture alert triggered.
+2026-03-07 15:07:21,510 | INFO | Posture alert triggered.
+2026-03-07 15:07:21,556 | INFO | Posture alert triggered.
+2026-03-07 15:07:21,604 | INFO | Posture alert triggered.
+2026-03-07 15:07:21,645 | INFO | Posture alert triggered.
+2026-03-07 15:07:21,697 | INFO | Posture alert triggered.
+2026-03-07 15:07:21,741 | INFO | Posture alert triggered.
+2026-03-07 15:07:21,793 | INFO | Posture alert triggered.
+2026-03-07 15:07:21,841 | INFO | Posture alert triggered.
+2026-03-07 15:07:21,890 | INFO | Posture alert triggered.
+2026-03-07 15:07:21,948 | INFO | Posture alert triggered.
+2026-03-07 15:07:22,011 | INFO | Posture alert triggered.
+2026-03-07 15:07:22,056 | INFO | Posture alert triggered.
+2026-03-07 15:07:22,103 | INFO | Posture alert triggered.
+2026-03-07 15:07:22,146 | INFO | Posture alert triggered.
+2026-03-07 15:07:22,194 | INFO | Posture alert triggered.
+2026-03-07 15:07:22,419 | INFO | Posture alert triggered.
+2026-03-07 15:07:22,540 | INFO | Posture alert triggered.
+2026-03-07 15:07:22,670 | INFO | Posture alert triggered.
+2026-03-07 15:07:22,800 | INFO | Posture alert triggered.
+2026-03-07 15:07:22,934 | INFO | Posture alert triggered.
+2026-03-07 15:07:23,056 | INFO | Posture alert triggered.
+2026-03-07 15:07:23,209 | INFO | Posture alert triggered.
+2026-03-07 15:07:23,332 | INFO | Posture alert triggered.
+2026-03-07 15:07:23,467 | INFO | Posture alert triggered.
+2026-03-07 15:07:23,580 | INFO | Posture alert triggered.
+2026-03-07 15:07:23,715 | INFO | Posture alert triggered.
+2026-03-07 15:07:23,843 | INFO | Posture alert triggered.
+2026-03-07 15:07:23,964 | INFO | Posture alert triggered.
+2026-03-07 15:07:24,092 | INFO | Posture alert triggered.
+2026-03-07 15:07:24,207 | INFO | Posture alert triggered.
+2026-03-07 15:07:24,334 | INFO | Posture alert triggered.
+2026-03-07 15:07:24,474 | INFO | Posture alert triggered.
+2026-03-07 15:07:24,605 | INFO | Posture alert triggered.
+2026-03-07 15:07:24,735 | INFO | Posture alert triggered.
+2026-03-07 15:07:24,849 | INFO | Posture alert triggered.
+2026-03-07 15:07:24,988 | INFO | Posture alert triggered.
+2026-03-07 15:07:25,127 | INFO | Posture alert triggered.
+2026-03-07 15:07:25,256 | INFO | Posture alert triggered.
+2026-03-07 15:07:25,378 | INFO | Posture alert triggered.
+2026-03-07 15:07:25,491 | INFO | Posture alert triggered.
+2026-03-07 15:07:25,606 | INFO | Posture alert triggered.
+2026-03-07 15:07:25,712 | INFO | Posture alert triggered.
+2026-03-07 15:07:25,825 | INFO | Posture alert triggered.
+2026-03-07 15:07:25,947 | INFO | Posture alert triggered.
+2026-03-07 15:07:26,081 | INFO | Posture alert triggered.
+2026-03-07 15:07:26,189 | INFO | Posture alert triggered.
+2026-03-07 15:07:26,301 | INFO | Posture alert triggered.
+2026-03-07 15:07:26,421 | INFO | Posture alert triggered.
+2026-03-07 15:07:26,554 | INFO | Posture alert triggered.
+2026-03-07 15:07:26,680 | INFO | Posture alert triggered.
+2026-03-07 15:07:26,802 | INFO | Posture alert triggered.
+2026-03-07 15:07:26,934 | INFO | Posture alert triggered.
+2026-03-07 15:07:27,064 | INFO | Posture alert triggered.
+2026-03-07 15:07:27,186 | INFO | Posture alert triggered.
+2026-03-07 15:07:27,305 | INFO | Posture alert triggered.
+2026-03-07 15:07:27,424 | INFO | Posture alert triggered.
+2026-03-07 15:07:27,552 | INFO | Posture alert triggered.
+2026-03-07 15:07:27,681 | INFO | Posture alert triggered.
+2026-03-07 15:07:27,793 | INFO | Posture alert triggered.
+2026-03-07 15:07:27,925 | INFO | Posture alert triggered.
+2026-03-07 15:07:28,062 | INFO | Posture alert triggered.
+2026-03-07 15:07:28,194 | INFO | Posture alert triggered.
+2026-03-07 15:07:28,311 | INFO | Posture alert triggered.
+2026-03-07 15:07:28,437 | INFO | Posture alert triggered.
+2026-03-07 15:07:28,573 | INFO | Posture alert triggered.
+2026-03-07 15:07:28,698 | INFO | Posture alert triggered.
+2026-03-07 15:07:28,833 | INFO | Posture alert triggered.
+2026-03-07 15:07:28,967 | INFO | Posture alert triggered.
+2026-03-07 15:07:29,096 | INFO | Posture alert triggered.
+2026-03-07 15:07:29,209 | INFO | Posture alert triggered.
+2026-03-07 15:07:29,333 | INFO | Posture alert triggered.
+2026-03-07 15:07:29,452 | INFO | Posture alert triggered.
+2026-03-07 15:07:29,569 | INFO | Posture alert triggered.
+2026-03-07 15:07:29,677 | INFO | Posture alert triggered.
+2026-03-07 15:07:29,800 | INFO | Posture alert triggered.
+2026-03-07 15:07:29,914 | INFO | Posture alert triggered.
+2026-03-07 15:07:30,039 | INFO | Posture alert triggered.
+2026-03-07 15:07:30,180 | INFO | Posture alert triggered.
+2026-03-07 15:07:30,319 | INFO | Posture alert triggered.
+2026-03-07 15:07:30,430 | INFO | Posture alert triggered.
+2026-03-07 15:07:30,557 | INFO | Posture alert triggered.
+2026-03-07 15:07:30,665 | INFO | Posture alert triggered.
+2026-03-07 15:07:30,800 | INFO | Posture alert triggered.
+2026-03-07 15:07:30,912 | INFO | Posture alert triggered.
+2026-03-07 15:07:31,030 | INFO | Posture alert triggered.
+2026-03-07 15:07:31,150 | INFO | Posture alert triggered.
+2026-03-07 15:07:31,280 | INFO | Posture alert triggered.
+2026-03-07 15:07:31,404 | INFO | Posture alert triggered.
+2026-03-07 15:07:31,506 | INFO | Posture alert triggered.
+2026-03-07 15:07:31,641 | INFO | Posture alert triggered.
+2026-03-07 15:07:31,767 | INFO | Posture alert triggered.
+2026-03-07 15:07:31,878 | INFO | Posture alert triggered.
+2026-03-07 15:07:32,015 | INFO | Posture alert triggered.
+2026-03-07 15:07:32,141 | INFO | Posture alert triggered.
+2026-03-07 15:07:32,247 | INFO | Posture alert triggered.
+2026-03-07 15:07:32,375 | INFO | Posture alert triggered.
+2026-03-07 15:07:32,631 | INFO | Posture alert triggered.
+2026-03-07 15:07:32,757 | INFO | Posture alert triggered.
+2026-03-07 15:07:32,900 | INFO | Posture alert triggered.
+2026-03-07 15:07:33,028 | INFO | Posture alert triggered.
+2026-03-07 15:07:33,147 | INFO | Posture alert triggered.
+2026-03-07 15:07:33,294 | INFO | Posture alert triggered.
+2026-03-07 15:07:33,422 | INFO | Posture alert triggered.
+2026-03-07 15:07:33,549 | INFO | Posture alert triggered.
+2026-03-07 15:07:33,680 | INFO | Posture alert triggered.
+2026-03-07 15:07:33,800 | INFO | Posture alert triggered.
+2026-03-07 15:07:33,940 | INFO | Posture alert triggered.
+2026-03-07 15:07:34,047 | INFO | Posture alert triggered.
+2026-03-07 15:07:34,172 | INFO | Posture alert triggered.
+2026-03-07 15:07:34,318 | INFO | Posture alert triggered.
+2026-03-07 15:07:34,451 | INFO | Posture alert triggered.
+2026-03-07 15:07:34,580 | INFO | Posture alert triggered.
+2026-03-07 15:07:34,708 | INFO | Posture alert triggered.
+2026-03-07 15:07:34,822 | INFO | Posture alert triggered.
+2026-03-07 15:07:34,916 | INFO | Posture alert triggered.
+2026-03-07 15:07:35,029 | INFO | Posture alert triggered.
+2026-03-07 15:07:35,132 | INFO | Posture alert triggered.
+2026-03-07 15:07:35,240 | INFO | Posture alert triggered.
+2026-03-07 15:07:35,364 | INFO | Posture alert triggered.
+2026-03-07 15:07:35,483 | INFO | Posture alert triggered.
+2026-03-07 15:07:35,611 | INFO | Posture alert triggered.
+2026-03-07 15:07:35,757 | INFO | Posture alert triggered.
+2026-03-07 15:07:35,882 | INFO | Posture alert triggered.
+2026-03-07 15:07:35,991 | INFO | Posture alert triggered.
+2026-03-07 15:07:36,134 | INFO | Posture alert triggered.
+2026-03-07 15:07:36,271 | INFO | Posture alert triggered.
+2026-03-07 15:07:36,405 | INFO | Posture alert triggered.
+2026-03-07 15:07:36,527 | INFO | Posture alert triggered.
+2026-03-07 15:07:36,654 | INFO | Posture alert triggered.
+2026-03-07 15:07:36,766 | INFO | Posture alert triggered.
+2026-03-07 15:07:36,873 | INFO | Posture alert triggered.
+2026-03-07 15:07:37,006 | INFO | Posture alert triggered.
+2026-03-07 15:07:37,121 | INFO | Posture alert triggered.
+2026-03-07 15:07:37,233 | INFO | Posture alert triggered.
+2026-03-07 15:07:37,349 | INFO | Posture alert triggered.
+2026-03-07 15:07:37,455 | INFO | Posture alert triggered.
+2026-03-07 15:07:37,586 | INFO | Posture alert triggered.
+2026-03-07 15:07:37,708 | INFO | Posture alert triggered.
+2026-03-07 15:07:37,828 | INFO | Posture alert triggered.
+2026-03-07 15:07:37,952 | INFO | Posture alert triggered.
+2026-03-07 15:07:38,082 | INFO | Posture alert triggered.
+2026-03-07 15:07:38,203 | INFO | Posture alert triggered.
+2026-03-07 15:07:38,320 | INFO | Posture alert triggered.
+2026-03-07 15:07:38,452 | INFO | Posture alert triggered.
+2026-03-07 15:07:38,570 | INFO | Posture alert triggered.
+2026-03-07 15:07:38,692 | INFO | Posture alert triggered.
+2026-03-07 15:07:38,799 | INFO | Posture alert triggered.
+2026-03-07 15:07:38,917 | INFO | Posture alert triggered.
+2026-03-07 15:07:39,056 | INFO | Posture alert triggered.
+2026-03-07 15:07:39,186 | INFO | Posture alert triggered.
+2026-03-07 15:07:39,313 | INFO | Posture alert triggered.
+2026-03-07 15:07:39,421 | INFO | Posture alert triggered.
+2026-03-07 15:07:39,555 | INFO | Posture alert triggered.
+2026-03-07 15:07:39,688 | INFO | Posture alert triggered.
+2026-03-07 15:07:39,799 | INFO | Posture alert triggered.
+2026-03-07 15:07:39,936 | INFO | Posture alert triggered.
+2026-03-07 15:07:40,054 | INFO | Posture alert triggered.
+2026-03-07 15:07:40,189 | INFO | Posture alert triggered.
+2026-03-07 15:07:40,303 | INFO | Posture alert triggered.
+2026-03-07 15:07:40,434 | INFO | Posture alert triggered.
+2026-03-07 15:07:40,558 | INFO | Posture alert triggered.
+2026-03-07 15:07:40,689 | INFO | Posture alert triggered.
+2026-03-07 15:07:40,813 | INFO | Posture alert triggered.
+2026-03-07 15:07:40,927 | INFO | Posture alert triggered.
+2026-03-07 15:07:41,062 | INFO | Posture alert triggered.
+2026-03-07 15:07:41,168 | INFO | Posture alert triggered.
+2026-03-07 15:07:41,292 | INFO | Posture alert triggered.
+2026-03-07 15:07:41,412 | INFO | Posture alert triggered.
+2026-03-07 15:07:41,539 | INFO | Posture alert triggered.
+2026-03-07 15:07:41,652 | INFO | Posture alert triggered.
+2026-03-07 15:07:41,775 | INFO | Posture alert triggered.
+2026-03-07 15:07:41,892 | INFO | Posture alert triggered.
+2026-03-07 15:07:42,021 | INFO | Posture alert triggered.
+2026-03-07 15:07:42,137 | INFO | Posture alert triggered.
+2026-03-07 15:07:42,255 | INFO | Posture alert triggered.
+2026-03-07 15:07:42,376 | INFO | Posture alert triggered.
+2026-03-07 15:07:42,507 | INFO | Posture alert triggered.
+2026-03-07 15:07:42,614 | INFO | Posture alert triggered.
+2026-03-07 15:07:42,737 | INFO | Posture alert triggered.
+2026-03-07 15:07:42,845 | INFO | Posture alert triggered.
+2026-03-07 15:07:42,958 | INFO | Posture alert triggered.
+2026-03-07 15:07:43,089 | INFO | Posture alert triggered.
+2026-03-07 15:07:43,218 | INFO | Posture alert triggered.
+2026-03-07 15:07:43,337 | INFO | Posture alert triggered.
+2026-03-07 15:07:43,453 | INFO | Posture alert triggered.
+2026-03-07 15:07:43,584 | INFO | Posture alert triggered.
+2026-03-07 15:07:43,701 | INFO | Posture alert triggered.
+2026-03-07 15:07:43,828 | INFO | Posture alert triggered.
+2026-03-07 15:07:43,949 | INFO | Posture alert triggered.
+2026-03-07 15:07:44,069 | INFO | Posture alert triggered.
+2026-03-07 15:07:44,191 | INFO | Posture alert triggered.
+2026-03-07 15:07:44,325 | INFO | Posture alert triggered.
+2026-03-07 15:07:44,457 | INFO | Posture alert triggered.
+2026-03-07 15:07:44,588 | INFO | Posture alert triggered.
+2026-03-07 15:07:44,715 | INFO | Posture alert triggered.
+2026-03-07 15:07:44,834 | INFO | Posture alert triggered.
+2026-03-07 15:07:44,954 | INFO | Posture alert triggered.
+2026-03-07 15:07:45,089 | INFO | Posture alert triggered.
+2026-03-07 15:07:45,208 | INFO | Posture alert triggered.
+2026-03-07 15:07:45,332 | INFO | Posture alert triggered.
+2026-03-07 15:07:45,449 | INFO | Posture alert triggered.
+2026-03-07 15:07:45,552 | INFO | Posture alert triggered.
+2026-03-07 15:07:45,684 | INFO | Posture alert triggered.
+2026-03-07 15:07:45,799 | INFO | Posture alert triggered.
+2026-03-07 15:07:45,919 | INFO | Posture alert triggered.
+2026-03-07 15:07:46,051 | INFO | Posture alert triggered.
+2026-03-07 15:07:46,180 | INFO | Posture alert triggered.
+2026-03-07 15:07:46,318 | INFO | Posture alert triggered.
+2026-03-07 15:07:46,439 | INFO | Posture alert triggered.
+2026-03-07 15:07:46,567 | INFO | Posture alert triggered.
+2026-03-07 15:07:46,683 | INFO | Posture alert triggered.
+2026-03-07 15:07:46,805 | INFO | Posture alert triggered.
+2026-03-07 15:07:46,948 | INFO | Posture alert triggered.
+2026-03-07 15:07:47,089 | INFO | Posture alert triggered.
+2026-03-07 15:07:47,216 | INFO | Posture alert triggered.
+2026-03-07 15:07:47,341 | INFO | Posture alert triggered.
+2026-03-07 15:07:47,456 | INFO | Posture alert triggered.
+2026-03-07 15:07:47,579 | INFO | Posture alert triggered.
+2026-03-07 15:07:47,692 | INFO | Posture alert triggered.
+2026-03-07 15:07:47,797 | INFO | Posture alert triggered.
+2026-03-07 15:07:47,922 | INFO | Posture alert triggered.
+2026-03-07 15:07:48,028 | INFO | Posture alert triggered.
+2026-03-07 15:07:48,149 | INFO | Posture alert triggered.
+2026-03-07 15:07:48,282 | INFO | Posture alert triggered.
+2026-03-07 15:07:48,400 | INFO | Posture alert triggered.
+2026-03-07 15:07:48,531 | INFO | Posture alert triggered.
+2026-03-07 15:07:48,655 | INFO | Posture alert triggered.
+2026-03-07 15:07:48,756 | INFO | Posture alert triggered.
+2026-03-07 15:07:48,878 | INFO | Posture alert triggered.
+2026-03-07 15:07:48,997 | INFO | Posture alert triggered.
+2026-03-07 15:07:49,120 | INFO | Posture alert triggered.
+2026-03-07 15:07:49,232 | INFO | Posture alert triggered.
+2026-03-07 15:07:49,364 | INFO | Posture alert triggered.
+2026-03-07 15:07:49,488 | INFO | Posture alert triggered.
+2026-03-07 15:07:49,590 | INFO | Posture alert triggered.
+2026-03-07 15:07:49,711 | INFO | Posture alert triggered.
+2026-03-07 15:07:49,844 | INFO | Posture alert triggered.
+2026-03-07 15:07:49,954 | INFO | Posture alert triggered.
+2026-03-07 15:07:50,059 | INFO | Posture alert triggered.
+2026-03-07 15:07:50,171 | INFO | Posture alert triggered.
+2026-03-07 15:07:50,295 | INFO | Posture alert triggered.
+2026-03-07 15:07:50,407 | INFO | Posture alert triggered.
+2026-03-07 15:07:50,520 | INFO | Posture alert triggered.
+2026-03-07 15:07:50,645 | INFO | Posture alert triggered.
+2026-03-07 15:07:50,774 | INFO | Posture alert triggered.
+2026-03-07 15:07:50,896 | INFO | Posture alert triggered.
+2026-03-07 15:07:51,012 | INFO | Posture alert triggered.
+2026-03-07 15:07:51,137 | INFO | Posture alert triggered.
+2026-03-07 15:07:51,256 | INFO | Posture alert triggered.
+2026-03-07 15:07:51,376 | INFO | Posture alert triggered.
+2026-03-07 15:07:51,498 | INFO | Posture alert triggered.
+2026-03-07 15:07:51,618 | INFO | Posture alert triggered.
+2026-03-07 15:07:51,739 | INFO | Posture alert triggered.
+2026-03-07 15:07:51,855 | INFO | Posture alert triggered.
+2026-03-07 15:07:51,986 | INFO | Posture alert triggered.
+2026-03-07 15:07:52,124 | INFO | Posture alert triggered.
+2026-03-07 15:07:52,246 | INFO | Posture alert triggered.
+2026-03-07 15:07:52,370 | INFO | Posture alert triggered.
+2026-03-07 15:07:52,492 | INFO | Posture alert triggered.
+2026-03-07 15:07:52,617 | INFO | Posture alert triggered.
+2026-03-07 15:07:52,742 | INFO | Posture alert triggered.
+2026-03-07 15:07:52,872 | INFO | Posture alert triggered.
+2026-03-07 15:07:52,990 | INFO | Posture alert triggered.
+2026-03-07 15:07:53,106 | INFO | Posture alert triggered.
+2026-03-07 15:07:53,236 | INFO | Posture alert triggered.
+2026-03-07 15:07:53,355 | INFO | Posture alert triggered.
+2026-03-07 15:07:53,475 | INFO | Posture alert triggered.
+2026-03-07 15:07:53,597 | INFO | Posture alert triggered.
+2026-03-07 15:07:53,736 | INFO | Posture alert triggered.
+2026-03-07 15:07:53,860 | INFO | Posture alert triggered.
+2026-03-07 15:07:53,990 | INFO | Posture alert triggered.
+2026-03-07 15:07:54,113 | INFO | Posture alert triggered.
+2026-03-07 15:07:54,226 | INFO | Posture alert triggered.
+2026-03-07 15:07:54,330 | INFO | Posture alert triggered.
+2026-03-07 15:07:54,441 | INFO | Posture alert triggered.
+2026-03-07 15:07:54,568 | INFO | Posture alert triggered.
+2026-03-07 15:07:54,689 | INFO | Posture alert triggered.
+2026-03-07 15:07:54,801 | INFO | Posture alert triggered.
+2026-03-07 15:07:54,919 | INFO | Posture alert triggered.
+2026-03-07 15:07:55,048 | INFO | Posture alert triggered.
+2026-03-07 15:07:55,181 | INFO | Posture alert triggered.
+2026-03-07 15:07:55,316 | INFO | Posture alert triggered.
+2026-03-07 15:07:55,438 | INFO | Posture alert triggered.
+2026-03-07 15:07:55,566 | INFO | Posture alert triggered.
+2026-03-07 15:07:55,668 | INFO | Posture alert triggered.
+2026-03-07 15:07:55,770 | INFO | Posture alert triggered.
+2026-03-07 15:07:55,888 | INFO | Posture alert triggered.
+2026-03-07 15:07:56,008 | INFO | Posture alert triggered.
+2026-03-07 15:07:56,133 | INFO | Posture alert triggered.
+2026-03-07 15:07:56,260 | INFO | Posture alert triggered.
+2026-03-07 15:07:56,386 | INFO | Posture alert triggered.
+2026-03-07 15:07:56,510 | INFO | Posture alert triggered.
+2026-03-07 15:07:56,630 | INFO | Posture alert triggered.
+2026-03-07 15:07:56,765 | INFO | Posture alert triggered.
+2026-03-07 15:07:56,906 | INFO | Posture alert triggered.
+2026-03-07 15:07:57,041 | INFO | Posture alert triggered.
+2026-03-07 15:07:57,147 | INFO | Posture alert triggered.
+2026-03-07 15:07:57,263 | INFO | Posture alert triggered.
+2026-03-07 15:07:57,397 | INFO | Posture alert triggered.
+2026-03-07 15:07:57,510 | INFO | Posture alert triggered.
+2026-03-07 15:07:57,638 | INFO | Posture alert triggered.
+2026-03-07 15:07:57,744 | INFO | Posture alert triggered.
+2026-03-07 15:07:57,878 | INFO | Posture alert triggered.
+2026-03-07 15:07:58,015 | INFO | Posture alert triggered.
+2026-03-07 15:07:58,140 | INFO | Posture alert triggered.
+2026-03-07 15:07:58,270 | INFO | Posture alert triggered.
+2026-03-07 15:07:58,397 | INFO | Posture alert triggered.
+2026-03-07 15:07:58,524 | INFO | Posture alert triggered.
+2026-03-07 15:07:58,648 | INFO | Posture alert triggered.
+2026-03-07 15:07:58,787 | INFO | Posture alert triggered.
+2026-03-07 15:07:58,900 | INFO | Posture alert triggered.
+2026-03-07 15:07:59,026 | INFO | Posture alert triggered.
+2026-03-07 15:07:59,145 | INFO | Posture alert triggered.
+2026-03-07 15:07:59,274 | INFO | Posture alert triggered.
+2026-03-07 15:07:59,402 | INFO | Posture alert triggered.
+2026-03-07 15:07:59,519 | INFO | Posture alert triggered.
+2026-03-07 15:07:59,651 | INFO | Posture alert triggered.
+2026-03-07 15:07:59,785 | INFO | Posture alert triggered.
+2026-03-07 15:07:59,909 | INFO | Posture alert triggered.
+2026-03-07 15:08:00,062 | INFO | Posture alert triggered.
+2026-03-07 15:08:00,190 | INFO | Posture alert triggered.
+2026-03-07 15:08:00,319 | INFO | Posture alert triggered.
+2026-03-07 15:08:00,465 | INFO | Posture alert triggered.
+2026-03-07 15:08:00,599 | INFO | Posture alert triggered.
+2026-03-07 15:08:00,721 | INFO | Posture alert triggered.
+2026-03-07 15:08:00,852 | INFO | Posture alert triggered.
+2026-03-07 15:08:00,991 | INFO | Posture alert triggered.
+2026-03-07 15:08:01,112 | INFO | Posture alert triggered.
+2026-03-07 15:08:01,239 | INFO | Posture alert triggered.
+2026-03-07 15:08:01,362 | INFO | Posture alert triggered.
+2026-03-07 15:08:01,492 | INFO | Posture alert triggered.
+2026-03-07 15:08:01,621 | INFO | Posture alert triggered.
+2026-03-07 15:08:01,748 | INFO | Posture alert triggered.
+2026-03-07 15:08:01,857 | INFO | Posture alert triggered.
+2026-03-07 15:08:01,980 | INFO | Posture alert triggered.
+2026-03-07 15:08:02,105 | INFO | Posture alert triggered.
+2026-03-07 15:08:02,237 | INFO | Posture alert triggered.
+2026-03-07 15:08:02,368 | INFO | Posture alert triggered.
+2026-03-07 15:08:02,474 | INFO | Posture alert triggered.
+2026-03-07 15:08:02,610 | INFO | Posture alert triggered.
+2026-03-07 15:08:02,737 | INFO | Posture alert triggered.
+2026-03-07 15:08:02,861 | INFO | Posture alert triggered.
+2026-03-07 15:08:02,984 | INFO | Posture alert triggered.
+2026-03-07 15:08:03,117 | INFO | Posture alert triggered.
+2026-03-07 15:08:03,231 | INFO | Posture alert triggered.
+2026-03-07 15:08:03,350 | INFO | Posture alert triggered.
+2026-03-07 15:08:03,469 | INFO | Posture alert triggered.
+2026-03-07 15:08:03,605 | INFO | Posture alert triggered.
+2026-03-07 15:08:03,741 | INFO | Posture alert triggered.
+2026-03-07 15:08:03,854 | INFO | Posture alert triggered.
+2026-03-07 15:08:03,978 | INFO | Posture alert triggered.
+2026-03-07 15:08:04,094 | INFO | Posture alert triggered.
+2026-03-07 15:08:04,219 | INFO | Posture alert triggered.
+2026-03-07 15:08:04,336 | INFO | Posture alert triggered.
+2026-03-07 15:08:04,466 | INFO | Posture alert triggered.
+2026-03-07 15:08:04,592 | INFO | Posture alert triggered.
+2026-03-07 15:08:04,708 | INFO | Posture alert triggered.
+2026-03-07 15:08:04,826 | INFO | Posture alert triggered.
+2026-03-07 15:08:04,942 | INFO | Posture alert triggered.
+2026-03-07 15:08:05,069 | INFO | Posture alert triggered.
+2026-03-07 15:08:05,192 | INFO | Posture alert triggered.
+2026-03-07 15:08:05,328 | INFO | Posture alert triggered.
+2026-03-07 15:08:05,450 | INFO | Posture alert triggered.
+2026-03-07 15:08:05,581 | INFO | Posture alert triggered.
+2026-03-07 15:08:05,713 | INFO | Posture alert triggered.
+2026-03-07 15:08:05,838 | INFO | Posture alert triggered.
+2026-03-07 15:08:05,972 | INFO | Posture alert triggered.
+2026-03-07 15:08:06,085 | INFO | Posture alert triggered.
+2026-03-07 15:08:06,218 | INFO | Posture alert triggered.
+2026-03-07 15:08:06,359 | INFO | Posture alert triggered.
+2026-03-07 15:08:06,505 | INFO | Posture alert triggered.
+2026-03-07 15:08:06,610 | INFO | Posture alert triggered.
+2026-03-07 15:08:06,741 | INFO | Posture alert triggered.
+2026-03-07 15:08:06,860 | INFO | Posture alert triggered.
+2026-03-07 15:08:06,986 | INFO | Posture alert triggered.
+2026-03-07 15:08:07,120 | INFO | Posture alert triggered.
+2026-03-07 15:08:07,228 | INFO | Posture alert triggered.
+2026-03-07 15:08:07,347 | INFO | Posture alert triggered.
+2026-03-07 15:08:07,451 | INFO | Posture alert triggered.
+2026-03-07 15:08:07,576 | INFO | Posture alert triggered.
+2026-03-07 15:08:07,699 | INFO | Posture alert triggered.
+2026-03-07 15:08:07,833 | INFO | Posture alert triggered.
+2026-03-07 15:08:07,968 | INFO | Posture alert triggered.
+2026-03-07 15:08:08,082 | INFO | Posture alert triggered.
+2026-03-07 15:08:08,224 | INFO | Posture alert triggered.
+2026-03-07 15:08:08,362 | INFO | Posture alert triggered.
+2026-03-07 15:08:08,488 | INFO | Posture alert triggered.
+2026-03-07 15:08:08,615 | INFO | Posture alert triggered.
+2026-03-07 15:08:08,734 | INFO | Posture alert triggered.
+2026-03-07 15:08:08,867 | INFO | Posture alert triggered.
+2026-03-07 15:08:08,992 | INFO | Posture alert triggered.
+2026-03-07 15:08:09,114 | INFO | Posture alert triggered.
+2026-03-07 15:08:09,247 | INFO | Posture alert triggered.
+2026-03-07 15:08:09,383 | INFO | Posture alert triggered.
+2026-03-07 15:08:09,482 | INFO | Posture alert triggered.
+2026-03-07 15:08:09,578 | INFO | Posture alert triggered.
+2026-03-07 15:08:09,704 | INFO | Posture alert triggered.
+2026-03-07 15:08:09,829 | INFO | Posture alert triggered.
+2026-03-07 15:08:09,936 | INFO | Posture alert triggered.
+2026-03-07 15:08:10,050 | INFO | Posture alert triggered.
+2026-03-07 15:08:10,159 | INFO | Posture alert triggered.
+2026-03-07 15:08:10,279 | INFO | Posture alert triggered.
+2026-03-07 15:08:10,406 | INFO | Posture alert triggered.
+2026-03-07 15:08:10,541 | INFO | Posture alert triggered.
+2026-03-07 15:08:10,654 | INFO | Posture alert triggered.
+2026-03-07 15:08:10,791 | INFO | Posture alert triggered.
+2026-03-07 15:08:10,917 | INFO | Posture alert triggered.
+2026-03-07 15:08:11,029 | INFO | Posture alert triggered.
+2026-03-07 15:08:11,162 | INFO | Posture alert triggered.
+2026-03-07 15:08:11,293 | INFO | Posture alert triggered.
+2026-03-07 15:08:11,420 | INFO | Posture alert triggered.
+2026-03-07 15:08:11,553 | INFO | Posture alert triggered.
+2026-03-07 15:08:11,683 | INFO | Posture alert triggered.
+2026-03-07 15:08:11,781 | INFO | Posture alert triggered.
+2026-03-07 15:08:11,912 | INFO | Posture alert triggered.
+2026-03-07 15:08:12,062 | INFO | Posture alert triggered.
+2026-03-07 15:08:12,192 | INFO | Posture alert triggered.
+2026-03-07 15:08:12,321 | INFO | Posture alert triggered.
+2026-03-07 15:08:12,443 | INFO | Posture alert triggered.
+2026-03-07 15:08:12,572 | INFO | Posture alert triggered.
+2026-03-07 15:08:12,705 | INFO | Posture alert triggered.
+2026-03-07 15:08:12,812 | INFO | Posture alert triggered.
+2026-03-07 15:08:12,942 | INFO | Posture alert triggered.
+2026-03-07 15:08:13,074 | INFO | Posture alert triggered.
+2026-03-07 15:08:13,193 | INFO | Posture alert triggered.
+2026-03-07 15:08:13,322 | INFO | Posture alert triggered.
+2026-03-07 15:08:13,437 | INFO | Posture alert triggered.
+2026-03-07 15:08:13,541 | INFO | Posture alert triggered.
+2026-03-07 15:08:13,661 | INFO | Posture alert triggered.
+2026-03-07 15:08:13,790 | INFO | Posture alert triggered.
+2026-03-07 15:08:13,908 | INFO | Posture alert triggered.
+2026-03-07 15:08:14,027 | INFO | Posture alert triggered.
+2026-03-07 15:08:14,142 | INFO | Posture alert triggered.
+2026-03-07 15:08:14,247 | INFO | Posture alert triggered.
+2026-03-07 15:08:14,370 | INFO | Posture alert triggered.
+2026-03-07 15:08:14,489 | INFO | Posture alert triggered.
+2026-03-07 15:08:14,620 | INFO | Posture alert triggered.
+2026-03-07 15:08:14,758 | INFO | Posture alert triggered.
+2026-03-07 15:08:14,873 | INFO | Posture alert triggered.
+2026-03-07 15:08:14,996 | INFO | Posture alert triggered.
+2026-03-07 15:08:15,114 | INFO | Posture alert triggered.
+2026-03-07 15:08:15,229 | INFO | Posture alert triggered.
+2026-03-07 15:08:15,358 | INFO | Posture alert triggered.
+2026-03-07 15:08:15,460 | INFO | Posture alert triggered.
+2026-03-07 15:08:15,582 | INFO | Posture alert triggered.
+2026-03-07 15:08:15,694 | INFO | Posture alert triggered.
+2026-03-07 15:08:15,802 | INFO | Posture alert triggered.
+2026-03-07 15:08:15,931 | INFO | Posture alert triggered.
+2026-03-07 15:08:16,063 | INFO | Posture alert triggered.
+2026-03-07 15:08:16,198 | INFO | Posture alert triggered.
+2026-03-07 15:08:16,328 | INFO | Posture alert triggered.
+2026-03-07 15:08:16,468 | INFO | Posture alert triggered.
+2026-03-07 15:08:16,645 | INFO | Posture alert triggered.
+2026-03-07 15:08:16,773 | INFO | Posture alert triggered.
+2026-03-07 15:08:16,891 | INFO | Posture alert triggered.
+2026-03-07 15:08:17,000 | INFO | Posture alert triggered.
+2026-03-07 15:08:17,116 | INFO | Posture alert triggered.
+2026-03-07 15:08:17,241 | INFO | Posture alert triggered.
+2026-03-07 15:08:17,380 | INFO | Posture alert triggered.
+2026-03-07 15:08:17,488 | INFO | Posture alert triggered.
+2026-03-07 15:08:17,611 | INFO | Posture alert triggered.
+2026-03-07 15:08:17,740 | INFO | Posture alert triggered.
+2026-03-07 15:08:17,866 | INFO | Posture alert triggered.
+2026-03-07 15:08:17,968 | INFO | Posture alert triggered.
+2026-03-07 15:08:18,101 | INFO | Posture alert triggered.
+2026-03-07 15:08:18,238 | INFO | Posture alert triggered.
+2026-03-07 15:08:18,334 | INFO | Posture alert triggered.
+2026-03-07 15:08:18,437 | INFO | Posture alert triggered.
+2026-03-07 15:08:18,563 | INFO | Posture alert triggered.
+2026-03-07 15:08:18,672 | INFO | Posture alert triggered.
+2026-03-07 15:08:18,782 | INFO | Posture alert triggered.
+2026-03-07 15:08:18,902 | INFO | Posture alert triggered.
+2026-03-07 15:08:19,026 | INFO | Posture alert triggered.
+2026-03-07 15:08:19,152 | INFO | Posture alert triggered.
+2026-03-07 15:08:19,275 | INFO | Posture alert triggered.
+2026-03-07 15:08:19,388 | INFO | Posture alert triggered.
+2026-03-07 15:08:19,482 | INFO | Posture alert triggered.
+2026-03-07 15:08:19,597 | INFO | Posture alert triggered.
+2026-03-07 15:08:19,720 | INFO | Posture alert triggered.
+2026-03-07 15:08:19,848 | INFO | Posture alert triggered.
+2026-03-07 15:08:19,971 | INFO | Posture alert triggered.
+2026-03-07 15:08:20,102 | INFO | Posture alert triggered.
+2026-03-07 15:08:20,246 | INFO | Posture alert triggered.
+2026-03-07 15:08:20,384 | INFO | Posture alert triggered.
+2026-03-07 15:08:20,511 | INFO | Posture alert triggered.
+2026-03-07 15:08:20,624 | INFO | Posture alert triggered.
+2026-03-07 15:08:20,720 | INFO | Posture alert triggered.
+2026-03-07 15:08:20,763 | INFO | Posture alert triggered.
+2026-03-07 15:08:20,810 | INFO | Posture alert triggered.
+2026-03-07 15:08:20,852 | INFO | Posture alert triggered.
+2026-03-07 15:08:20,899 | INFO | Posture alert triggered.
+2026-03-07 15:08:20,952 | INFO | Posture alert triggered.
+2026-03-07 15:08:21,009 | INFO | Posture alert triggered.
+2026-03-07 15:08:21,064 | INFO | Posture alert triggered.
+2026-03-07 15:08:21,117 | INFO | Posture alert triggered.
+2026-03-07 15:08:21,164 | INFO | Posture alert triggered.
+2026-03-07 15:08:21,216 | INFO | Posture alert triggered.
+2026-03-07 15:08:21,257 | INFO | Posture alert triggered.
+2026-03-07 15:08:21,308 | INFO | Posture alert triggered.
+2026-03-07 15:08:21,353 | INFO | Posture alert triggered.
+2026-03-07 15:08:21,398 | INFO | Posture alert triggered.
+2026-03-07 15:08:21,443 | INFO | Posture alert triggered.
+2026-03-07 15:08:21,491 | INFO | Posture alert triggered.
+2026-03-07 15:08:21,549 | INFO | Posture alert triggered.
+2026-03-07 15:08:21,597 | INFO | Posture alert triggered.
+2026-03-07 15:08:21,648 | INFO | Posture alert triggered.
+2026-03-07 15:08:21,689 | INFO | Posture alert triggered.
+2026-03-07 15:08:21,733 | INFO | Posture alert triggered.
+2026-03-07 15:08:21,782 | INFO | Posture alert triggered.
+2026-03-07 15:08:21,820 | INFO | Posture alert triggered.
+2026-03-07 15:08:21,864 | INFO | Posture alert triggered.
+2026-03-07 15:08:40,926 | INFO | Posture alert triggered.
+2026-03-07 15:08:40,975 | INFO | Posture alert triggered.
+2026-03-07 15:08:41,022 | INFO | Posture alert triggered.
+2026-03-07 15:08:41,065 | INFO | Posture alert triggered.
+2026-03-07 15:08:41,111 | INFO | Posture alert triggered.
+2026-03-07 15:08:41,161 | INFO | Posture alert triggered.
+2026-03-07 15:08:41,207 | INFO | Posture alert triggered.
+2026-03-07 15:08:41,251 | INFO | Posture alert triggered.
+2026-03-07 15:08:41,298 | INFO | Posture alert triggered.
+2026-03-07 15:08:41,348 | INFO | Posture alert triggered.
+2026-03-07 15:08:41,394 | INFO | Posture alert triggered.
+2026-03-07 15:08:41,440 | INFO | Posture alert triggered.
+2026-03-07 15:08:41,486 | INFO | Posture alert triggered.
+2026-03-07 15:08:41,538 | INFO | Posture alert triggered.
+2026-03-07 15:08:41,580 | INFO | Posture alert triggered.
+2026-03-07 15:08:41,625 | INFO | Posture alert triggered.
+2026-03-07 15:08:41,671 | INFO | Posture alert triggered.
+2026-03-07 15:08:41,717 | INFO | Posture alert triggered.
+2026-03-07 15:08:41,765 | INFO | Posture alert triggered.
+2026-03-07 15:08:41,814 | INFO | Posture alert triggered.
+2026-03-07 15:08:41,862 | INFO | Posture alert triggered.
+2026-03-07 15:08:41,906 | INFO | Posture alert triggered.
+2026-03-07 15:08:41,960 | INFO | Posture alert triggered.
+2026-03-07 15:08:41,998 | INFO | Posture alert triggered.
+2026-03-07 15:08:42,055 | INFO | Posture alert triggered.
+2026-03-07 15:08:42,097 | INFO | Posture alert triggered.
+2026-03-07 15:08:42,141 | INFO | Posture alert triggered.
+2026-03-07 15:08:42,186 | INFO | Posture alert triggered.
+2026-03-07 15:08:42,233 | INFO | Posture alert triggered.
+2026-03-07 15:08:42,279 | INFO | Posture alert triggered.
+2026-03-07 15:08:42,325 | INFO | Posture alert triggered.
+2026-03-07 15:08:42,376 | INFO | Posture alert triggered.
+2026-03-07 15:08:42,419 | INFO | Posture alert triggered.
+2026-03-07 15:08:42,464 | INFO | Posture alert triggered.
+2026-03-07 15:08:42,516 | INFO | Posture alert triggered.
+2026-03-07 15:08:42,571 | INFO | Posture alert triggered.
+2026-03-07 15:08:42,622 | INFO | Posture alert triggered.
+2026-03-07 15:08:42,668 | INFO | Posture alert triggered.
+2026-03-07 15:08:42,718 | INFO | Posture alert triggered.
+2026-03-07 15:08:42,765 | INFO | Posture alert triggered.
+2026-03-07 15:08:42,809 | INFO | Posture alert triggered.
+2026-03-07 15:08:42,854 | INFO | Posture alert triggered.
+2026-03-07 15:08:42,905 | INFO | Posture alert triggered.
+2026-03-07 15:08:42,949 | INFO | Posture alert triggered.
+2026-03-07 15:08:42,999 | INFO | Posture alert triggered.
+2026-03-07 15:08:43,041 | INFO | Posture alert triggered.
+2026-03-07 15:08:43,086 | INFO | Posture alert triggered.
+2026-03-07 15:08:43,132 | INFO | Posture alert triggered.
+2026-03-07 15:08:43,180 | INFO | Posture alert triggered.
+2026-03-07 15:08:43,389 | INFO | Posture alert triggered.
+2026-03-07 15:08:43,490 | INFO | Posture alert triggered.
+2026-03-07 15:08:43,610 | INFO | Posture alert triggered.
+2026-03-07 15:08:43,733 | INFO | Posture alert triggered.
+2026-03-07 15:08:43,882 | INFO | Posture alert triggered.
+2026-03-07 15:08:44,016 | INFO | Posture alert triggered.
+2026-03-07 15:08:44,123 | INFO | Posture alert triggered.
+2026-03-07 15:08:44,227 | INFO | Posture alert triggered.
+2026-03-07 15:08:44,361 | INFO | Posture alert triggered.
+2026-03-07 15:08:44,489 | INFO | Posture alert triggered.
+2026-03-07 15:08:44,612 | INFO | Posture alert triggered.
+2026-03-07 15:08:44,733 | INFO | Posture alert triggered.
+2026-03-07 15:08:44,867 | INFO | Posture alert triggered.
+2026-03-07 15:08:44,988 | INFO | Posture alert triggered.
+2026-03-07 15:08:45,101 | INFO | Posture alert triggered.
+2026-03-07 15:08:45,215 | INFO | Posture alert triggered.
+2026-03-07 15:08:45,343 | INFO | Posture alert triggered.
+2026-03-07 15:08:45,474 | INFO | Posture alert triggered.
+2026-03-07 15:08:45,596 | INFO | Posture alert triggered.
+2026-03-07 15:08:45,700 | INFO | Posture alert triggered.
+2026-03-07 15:08:45,809 | INFO | Posture alert triggered.
+2026-03-07 15:08:45,914 | INFO | Posture alert triggered.
+2026-03-07 15:08:46,049 | INFO | Posture alert triggered.
+2026-03-07 15:08:46,186 | INFO | Posture alert triggered.
+2026-03-07 15:08:46,323 | INFO | Posture alert triggered.
+2026-03-07 15:08:46,454 | INFO | Posture alert triggered.
+2026-03-07 15:08:46,582 | INFO | Posture alert triggered.
+2026-03-07 15:08:46,724 | INFO | Posture alert triggered.
+2026-03-07 15:08:46,850 | INFO | Posture alert triggered.
+2026-03-07 15:08:46,972 | INFO | Posture alert triggered.
+2026-03-07 15:08:47,102 | INFO | Posture alert triggered.
+2026-03-07 15:08:47,225 | INFO | Posture alert triggered.
+2026-03-07 15:08:47,361 | INFO | Posture alert triggered.
+2026-03-07 15:08:47,493 | INFO | Posture alert triggered.
+2026-03-07 15:08:47,624 | INFO | Posture alert triggered.
+2026-03-07 15:08:47,764 | INFO | Posture alert triggered.
+2026-03-07 15:08:47,893 | INFO | Posture alert triggered.
+2026-03-07 15:08:48,037 | INFO | Posture alert triggered.
+2026-03-07 15:08:48,168 | INFO | Posture alert triggered.
+2026-03-07 15:08:48,279 | INFO | Posture alert triggered.
+2026-03-07 15:08:48,409 | INFO | Posture alert triggered.
+2026-03-07 15:08:48,543 | INFO | Posture alert triggered.
+2026-03-07 15:08:48,669 | INFO | Posture alert triggered.
+2026-03-07 15:08:48,780 | INFO | Posture alert triggered.
+2026-03-07 15:08:48,904 | INFO | Posture alert triggered.
+2026-03-07 15:08:49,041 | INFO | Posture alert triggered.
+2026-03-07 15:08:49,170 | INFO | Posture alert triggered.
+2026-03-07 15:08:49,293 | INFO | Posture alert triggered.
+2026-03-07 15:08:49,420 | INFO | Posture alert triggered.
+2026-03-07 15:08:49,563 | INFO | Posture alert triggered.
+2026-03-07 15:08:49,689 | INFO | Posture alert triggered.
+2026-03-07 15:08:49,816 | INFO | Posture alert triggered.
+2026-03-07 15:08:49,943 | INFO | Posture alert triggered.
+2026-03-07 15:08:50,059 | INFO | Posture alert triggered.
+2026-03-07 15:08:50,180 | INFO | Posture alert triggered.
+2026-03-07 15:08:50,306 | INFO | Posture alert triggered.
+2026-03-07 15:08:50,432 | INFO | Posture alert triggered.
+2026-03-07 15:08:50,562 | INFO | Posture alert triggered.
+2026-03-07 15:08:50,681 | INFO | Posture alert triggered.
+2026-03-07 15:08:51,235 | INFO | System Shutdown Complete.
+2026-03-07 15:39:57,468 | WARNING | win10toast not available. Desktop notifications disabled on Windows.
+2026-03-07 15:39:57,469 | INFO | Starting DeskGuardian Application...
+2026-03-07 15:39:57,472 | INFO | Using existing user: DefaultUser (ID: 1)
+2026-03-07 15:39:57,781 | INFO | Trained model with coefficients: [[ 1.11805844  0.96585938 -0.92501028]]
+2026-03-07 15:39:57,784 | INFO | Trained and saved new burnout model.
+2026-03-07 15:39:57,786 | INFO | System Initializing...
+2026-03-07 15:39:57,793 | INFO | Monitoring Started.
+2026-03-07 15:40:28,350 | WARNING | Bad posture alert triggered! Duration: 30s
+2026-03-07 15:40:28,431 | WARNING | No notification library available.
+2026-03-07 15:40:28,546 | WARNING | Bad posture alert triggered! Duration: 30s
+2026-03-07 15:40:28,553 | WARNING | No notification library available.
+2026-03-07 15:40:28,672 | WARNING | Bad posture alert triggered! Duration: 30s
+2026-03-07 15:40:28,676 | WARNING | No notification library available.
+2026-03-07 15:40:28,790 | WARNING | Bad posture alert triggered! Duration: 31s
+2026-03-07 15:40:28,797 | WARNING | No notification library available.
+2026-03-07 15:40:28,911 | WARNING | Bad posture alert triggered! Duration: 31s
+2026-03-07 15:40:28,917 | WARNING | No notification library available.
+2026-03-07 15:40:29,026 | WARNING | Bad posture alert triggered! Duration: 31s
+2026-03-07 15:40:29,032 | WARNING | No notification library available.
+2026-03-07 15:40:29,148 | WARNING | Bad posture alert triggered! Duration: 31s
+2026-03-07 15:40:29,153 | WARNING | No notification library available.
+2026-03-07 15:40:29,268 | WARNING | Bad posture alert triggered! Duration: 31s
+2026-03-07 15:40:29,277 | WARNING | No notification library available.
+2026-03-07 15:40:29,391 | WARNING | Bad posture alert triggered! Duration: 31s
+2026-03-07 15:40:29,397 | WARNING | No notification library available.
+2026-03-07 15:40:29,522 | WARNING | Bad posture alert triggered! Duration: 31s
+2026-03-07 15:40:29,528 | WARNING | No notification library available.
+2026-03-07 15:40:29,654 | WARNING | Bad posture alert triggered! Duration: 31s
+2026-03-07 15:40:29,662 | WARNING | No notification library available.
+2026-03-07 15:40:29,788 | WARNING | Bad posture alert triggered! Duration: 32s
+2026-03-07 15:40:29,793 | WARNING | No notification library available.
+2026-03-07 15:40:29,908 | WARNING | Bad posture alert triggered! Duration: 32s
+2026-03-07 15:40:29,915 | WARNING | No notification library available.
+2026-03-07 15:40:30,023 | WARNING | Bad posture alert triggered! Duration: 32s
+2026-03-07 15:40:30,028 | WARNING | No notification library available.
+2026-03-07 15:40:30,130 | WARNING | Bad posture alert triggered! Duration: 32s
+2026-03-07 15:40:30,137 | WARNING | No notification library available.
+2026-03-07 15:40:30,241 | WARNING | Bad posture alert triggered! Duration: 32s
+2026-03-07 15:40:30,246 | WARNING | No notification library available.
+2026-03-07 15:40:30,366 | WARNING | Bad posture alert triggered! Duration: 32s
+2026-03-07 15:40:30,374 | WARNING | No notification library available.
+2026-03-07 15:40:30,500 | WARNING | Bad posture alert triggered! Duration: 32s
+2026-03-07 15:40:30,507 | WARNING | No notification library available.
+2026-03-07 15:40:30,630 | WARNING | Bad posture alert triggered! Duration: 32s
+2026-03-07 15:40:30,634 | WARNING | No notification library available.
+2026-03-07 15:40:30,731 | WARNING | Bad posture alert triggered! Duration: 32s
+2026-03-07 15:40:30,737 | WARNING | No notification library available.
+2026-03-07 15:40:30,826 | WARNING | Bad posture alert triggered! Duration: 33s
+2026-03-07 15:40:30,832 | WARNING | No notification library available.
+2026-03-07 15:40:30,942 | WARNING | Bad posture alert triggered! Duration: 33s
+2026-03-07 15:40:30,957 | WARNING | No notification library available.
+2026-03-07 15:40:31,030 | WARNING | Bad posture alert triggered! Duration: 33s
+2026-03-07 15:40:31,033 | WARNING | No notification library available.
+2026-03-07 15:40:31,074 | WARNING | Bad posture alert triggered! Duration: 33s
+2026-03-07 15:40:31,076 | WARNING | No notification library available.
+2026-03-07 15:40:31,127 | WARNING | Bad posture alert triggered! Duration: 33s
+2026-03-07 15:40:31,130 | WARNING | No notification library available.
+2026-03-07 15:40:31,176 | WARNING | Bad posture alert triggered! Duration: 33s
+2026-03-07 15:40:31,181 | WARNING | No notification library available.
+2026-03-07 15:40:31,220 | WARNING | Bad posture alert triggered! Duration: 33s
+2026-03-07 15:40:31,222 | WARNING | No notification library available.
+2026-03-07 15:40:31,271 | WARNING | Bad posture alert triggered! Duration: 33s
+2026-03-07 15:40:31,275 | WARNING | No notification library available.
+2026-03-07 15:40:31,310 | WARNING | Bad posture alert triggered! Duration: 33s
+2026-03-07 15:40:31,314 | WARNING | No notification library available.
+2026-03-07 15:40:31,363 | WARNING | Bad posture alert triggered! Duration: 33s
+2026-03-07 15:40:31,368 | WARNING | No notification library available.
+2026-03-07 15:40:31,410 | WARNING | Bad posture alert triggered! Duration: 33s
+2026-03-07 15:40:31,413 | WARNING | No notification library available.
+2026-03-07 15:40:31,458 | WARNING | Bad posture alert triggered! Duration: 33s
+2026-03-07 15:40:31,460 | WARNING | No notification library available.
+2026-03-07 15:40:31,505 | WARNING | Bad posture alert triggered! Duration: 33s
+2026-03-07 15:40:31,510 | WARNING | No notification library available.
+2026-03-07 15:40:31,565 | WARNING | Bad posture alert triggered! Duration: 33s
+2026-03-07 15:40:31,568 | WARNING | No notification library available.
+2026-03-07 15:40:31,609 | WARNING | Bad posture alert triggered! Duration: 33s
+2026-03-07 15:40:31,611 | WARNING | No notification library available.
+2026-03-07 15:40:31,659 | WARNING | Bad posture alert triggered! Duration: 33s
+2026-03-07 15:40:31,663 | WARNING | No notification library available.
+2026-03-07 15:40:31,704 | WARNING | Bad posture alert triggered! Duration: 33s
+2026-03-07 15:40:31,707 | WARNING | No notification library available.
+2026-03-07 15:40:31,763 | WARNING | Bad posture alert triggered! Duration: 34s
+2026-03-07 15:40:31,770 | WARNING | No notification library available.
+2026-03-07 15:40:31,815 | WARNING | Bad posture alert triggered! Duration: 34s
+2026-03-07 15:40:31,817 | WARNING | No notification library available.
+2026-03-07 15:40:31,860 | WARNING | Bad posture alert triggered! Duration: 34s
+2026-03-07 15:40:31,863 | WARNING | No notification library available.
+2026-03-07 15:40:31,910 | WARNING | Bad posture alert triggered! Duration: 34s
+2026-03-07 15:40:31,913 | WARNING | No notification library available.
+2026-03-07 15:40:31,953 | WARNING | Bad posture alert triggered! Duration: 34s
+2026-03-07 15:40:31,956 | WARNING | No notification library available.
+2026-03-07 15:40:31,998 | WARNING | Bad posture alert triggered! Duration: 34s
+2026-03-07 15:40:32,002 | WARNING | No notification library available.
+2026-03-07 15:40:32,043 | WARNING | Bad posture alert triggered! Duration: 34s
+2026-03-07 15:40:32,046 | WARNING | No notification library available.
+2026-03-07 15:40:32,094 | WARNING | Bad posture alert triggered! Duration: 34s
+2026-03-07 15:40:32,098 | WARNING | No notification library available.
+2026-03-07 15:40:32,146 | WARNING | Bad posture alert triggered! Duration: 34s
+2026-03-07 15:40:32,150 | WARNING | No notification library available.
+2026-03-07 15:40:32,201 | WARNING | Bad posture alert triggered! Duration: 34s
+2026-03-07 15:40:32,204 | WARNING | No notification library available.
+2026-03-07 15:40:32,250 | WARNING | Bad posture alert triggered! Duration: 34s
+2026-03-07 15:40:32,254 | WARNING | No notification library available.
+2026-03-07 15:40:32,293 | WARNING | Bad posture alert triggered! Duration: 34s
+2026-03-07 15:40:32,295 | WARNING | No notification library available.
+2026-03-07 15:40:32,343 | WARNING | Bad posture alert triggered! Duration: 34s
+2026-03-07 15:40:32,348 | WARNING | No notification library available.
+2026-03-07 15:40:32,389 | WARNING | Bad posture alert triggered! Duration: 34s
+2026-03-07 15:40:32,392 | WARNING | No notification library available.
+2026-03-07 15:40:32,436 | WARNING | Bad posture alert triggered! Duration: 34s
+2026-03-07 15:40:32,438 | WARNING | No notification library available.
+2026-03-07 15:40:32,479 | WARNING | Bad posture alert triggered! Duration: 34s
+2026-03-07 15:40:32,482 | WARNING | No notification library available.
+2026-03-07 15:40:32,528 | WARNING | Bad posture alert triggered! Duration: 34s
+2026-03-07 15:40:32,536 | WARNING | No notification library available.
+2026-03-07 15:40:32,574 | WARNING | Bad posture alert triggered! Duration: 34s
+2026-03-07 15:40:32,577 | WARNING | No notification library available.
+2026-03-07 15:40:32,621 | WARNING | Bad posture alert triggered! Duration: 34s
+2026-03-07 15:40:32,624 | WARNING | No notification library available.
+2026-03-07 15:40:32,668 | WARNING | Bad posture alert triggered! Duration: 34s
+2026-03-07 15:40:32,670 | WARNING | No notification library available.
+2026-03-07 15:40:32,715 | WARNING | Bad posture alert triggered! Duration: 34s
+2026-03-07 15:40:32,719 | WARNING | No notification library available.
+2026-03-07 15:40:32,762 | WARNING | Bad posture alert triggered! Duration: 35s
+2026-03-07 15:40:32,766 | WARNING | No notification library available.
+2026-03-07 15:40:32,806 | WARNING | Bad posture alert triggered! Duration: 35s
+2026-03-07 15:40:32,809 | WARNING | No notification library available.
+2026-03-07 15:40:32,861 | WARNING | Bad posture alert triggered! Duration: 35s
+2026-03-07 15:40:32,865 | WARNING | No notification library available.
+2026-03-07 15:40:32,914 | WARNING | Bad posture alert triggered! Duration: 35s
+2026-03-07 15:40:32,918 | WARNING | No notification library available.
+2026-03-07 15:40:32,963 | WARNING | Bad posture alert triggered! Duration: 35s
+2026-03-07 15:40:32,967 | WARNING | No notification library available.
+2026-03-07 15:40:33,028 | WARNING | Bad posture alert triggered! Duration: 35s
+2026-03-07 15:40:33,031 | WARNING | No notification library available.
+2026-03-07 15:40:33,073 | WARNING | Bad posture alert triggered! Duration: 35s
+2026-03-07 15:40:33,076 | WARNING | No notification library available.
+2026-03-07 15:40:33,117 | WARNING | Bad posture alert triggered! Duration: 35s
+2026-03-07 15:40:33,120 | WARNING | No notification library available.
+2026-03-07 15:40:33,164 | WARNING | Bad posture alert triggered! Duration: 35s
+2026-03-07 15:40:33,167 | WARNING | No notification library available.
+2026-03-07 15:40:33,226 | WARNING | Bad posture alert triggered! Duration: 35s
+2026-03-07 15:40:33,230 | WARNING | No notification library available.
+2026-03-07 15:40:33,271 | WARNING | Bad posture alert triggered! Duration: 35s
+2026-03-07 15:40:33,274 | WARNING | No notification library available.
+2026-03-07 15:40:33,317 | WARNING | Bad posture alert triggered! Duration: 35s
+2026-03-07 15:40:33,320 | WARNING | No notification library available.
+2026-03-07 15:40:33,365 | WARNING | Bad posture alert triggered! Duration: 35s
+2026-03-07 15:40:33,369 | WARNING | No notification library available.
+2026-03-07 15:40:33,409 | WARNING | Bad posture alert triggered! Duration: 35s
+2026-03-07 15:40:33,411 | WARNING | No notification library available.
+2026-03-07 15:40:33,457 | WARNING | Bad posture alert triggered! Duration: 35s
+2026-03-07 15:40:33,461 | WARNING | No notification library available.
+2026-03-07 15:40:33,522 | WARNING | Bad posture alert triggered! Duration: 35s
+2026-03-07 15:40:33,525 | WARNING | No notification library available.
+2026-03-07 15:40:33,583 | WARNING | Bad posture alert triggered! Duration: 35s
+2026-03-07 15:40:33,586 | WARNING | No notification library available.
+2026-03-07 15:40:33,630 | WARNING | Bad posture alert triggered! Duration: 35s
+2026-03-07 15:40:33,636 | WARNING | No notification library available.
+2026-03-07 15:40:33,698 | WARNING | Bad posture alert triggered! Duration: 35s
+2026-03-07 15:40:33,701 | WARNING | No notification library available.
+2026-03-07 15:40:33,752 | WARNING | Bad posture alert triggered! Duration: 35s
+2026-03-07 15:40:33,755 | WARNING | No notification library available.
+2026-03-07 15:40:33,801 | WARNING | Bad posture alert triggered! Duration: 36s
+2026-03-07 15:40:33,806 | WARNING | No notification library available.
+2026-03-07 15:40:33,862 | WARNING | Bad posture alert triggered! Duration: 36s
+2026-03-07 15:40:33,865 | WARNING | No notification library available.
+2026-03-07 15:40:33,918 | WARNING | Bad posture alert triggered! Duration: 36s
+2026-03-07 15:40:33,921 | WARNING | No notification library available.
+2026-03-07 15:40:33,966 | WARNING | Bad posture alert triggered! Duration: 36s
+2026-03-07 15:40:33,972 | WARNING | No notification library available.
+2026-03-07 15:40:34,034 | WARNING | Bad posture alert triggered! Duration: 36s
+2026-03-07 15:40:34,037 | WARNING | No notification library available.
+2026-03-07 15:40:34,094 | WARNING | Bad posture alert triggered! Duration: 36s
+2026-03-07 15:40:34,099 | WARNING | No notification library available.
+2026-03-07 15:40:34,155 | WARNING | Bad posture alert triggered! Duration: 36s
+2026-03-07 15:40:34,159 | WARNING | No notification library available.
+2026-03-07 15:40:34,201 | WARNING | Bad posture alert triggered! Duration: 36s
+2026-03-07 15:40:34,204 | WARNING | No notification library available.
+2026-03-07 15:40:34,247 | WARNING | Bad posture alert triggered! Duration: 36s
+2026-03-07 15:40:34,250 | WARNING | No notification library available.
+2026-03-07 15:40:34,294 | WARNING | Bad posture alert triggered! Duration: 36s
+2026-03-07 15:40:34,298 | WARNING | No notification library available.
+2026-03-07 15:40:34,343 | WARNING | Bad posture alert triggered! Duration: 36s
+2026-03-07 15:40:34,348 | WARNING | No notification library available.
+2026-03-07 15:40:34,416 | WARNING | Bad posture alert triggered! Duration: 36s
+2026-03-07 15:40:34,420 | WARNING | No notification library available.
+2026-03-07 15:40:34,468 | WARNING | Bad posture alert triggered! Duration: 36s
+2026-03-07 15:40:34,471 | WARNING | No notification library available.
+2026-03-07 15:40:34,515 | WARNING | Bad posture alert triggered! Duration: 36s
+2026-03-07 15:40:34,517 | WARNING | No notification library available.
+2026-03-07 15:40:34,555 | WARNING | Bad posture alert triggered! Duration: 36s
+2026-03-07 15:40:34,557 | WARNING | No notification library available.
+2026-03-07 15:40:34,604 | WARNING | Bad posture alert triggered! Duration: 36s
+2026-03-07 15:40:34,607 | WARNING | No notification library available.
+2026-03-07 15:40:34,649 | WARNING | Bad posture alert triggered! Duration: 36s
+2026-03-07 15:40:34,653 | WARNING | No notification library available.
+2026-03-07 15:40:34,701 | WARNING | Bad posture alert triggered! Duration: 36s
+2026-03-07 15:40:34,704 | WARNING | No notification library available.
+2026-03-07 15:40:34,761 | WARNING | Bad posture alert triggered! Duration: 37s
+2026-03-07 15:40:34,764 | WARNING | No notification library available.
+2026-03-07 15:40:34,804 | WARNING | Bad posture alert triggered! Duration: 37s
+2026-03-07 15:40:34,807 | WARNING | No notification library available.
+2026-03-07 15:40:34,857 | WARNING | Bad posture alert triggered! Duration: 37s
+2026-03-07 15:40:34,859 | WARNING | No notification library available.
+2026-03-07 15:40:34,919 | WARNING | Bad posture alert triggered! Duration: 37s
+2026-03-07 15:40:34,923 | WARNING | No notification library available.
+2026-03-07 15:40:34,979 | WARNING | Bad posture alert triggered! Duration: 37s
+2026-03-07 15:40:34,984 | WARNING | No notification library available.
+2026-03-07 15:40:35,026 | WARNING | Bad posture alert triggered! Duration: 37s
+2026-03-07 15:40:35,029 | WARNING | No notification library available.
+2026-03-07 15:40:35,071 | WARNING | Bad posture alert triggered! Duration: 37s
+2026-03-07 15:40:35,075 | WARNING | No notification library available.
+2026-03-07 15:40:35,143 | WARNING | Bad posture alert triggered! Duration: 37s
+2026-03-07 15:40:35,147 | WARNING | No notification library available.
+2026-03-07 15:40:35,188 | WARNING | Bad posture alert triggered! Duration: 37s
+2026-03-07 15:40:35,190 | WARNING | No notification library available.
+2026-03-07 15:40:35,239 | WARNING | Bad posture alert triggered! Duration: 37s
+2026-03-07 15:40:35,242 | WARNING | No notification library available.
+2026-03-07 15:40:35,292 | WARNING | Bad posture alert triggered! Duration: 37s
+2026-03-07 15:40:35,294 | WARNING | No notification library available.
+2026-03-07 15:40:35,340 | WARNING | Bad posture alert triggered! Duration: 37s
+2026-03-07 15:40:35,342 | WARNING | No notification library available.
+2026-03-07 15:40:35,383 | WARNING | Bad posture alert triggered! Duration: 37s
+2026-03-07 15:40:35,386 | WARNING | No notification library available.
+2026-03-07 15:40:35,428 | WARNING | Bad posture alert triggered! Duration: 37s
+2026-03-07 15:40:35,432 | WARNING | No notification library available.
+2026-03-07 15:40:35,476 | WARNING | Bad posture alert triggered! Duration: 37s
+2026-03-07 15:40:35,479 | WARNING | No notification library available.
+2026-03-07 15:40:35,526 | WARNING | Bad posture alert triggered! Duration: 37s
+2026-03-07 15:40:35,529 | WARNING | No notification library available.
+2026-03-07 15:40:35,586 | WARNING | Bad posture alert triggered! Duration: 37s
+2026-03-07 15:40:35,588 | WARNING | No notification library available.
+2026-03-07 15:40:35,628 | WARNING | Bad posture alert triggered! Duration: 37s
+2026-03-07 15:40:35,632 | WARNING | No notification library available.
+2026-03-07 15:40:35,676 | WARNING | Bad posture alert triggered! Duration: 37s
+2026-03-07 15:40:35,680 | WARNING | No notification library available.
+2026-03-07 15:40:35,723 | WARNING | Bad posture alert triggered! Duration: 37s
+2026-03-07 15:40:35,725 | WARNING | No notification library available.
+2026-03-07 15:40:35,769 | WARNING | Bad posture alert triggered! Duration: 38s
+2026-03-07 15:40:35,772 | WARNING | No notification library available.
+2026-03-07 15:40:35,826 | WARNING | Bad posture alert triggered! Duration: 38s
+2026-03-07 15:40:35,831 | WARNING | No notification library available.
+2026-03-07 15:40:35,877 | WARNING | Bad posture alert triggered! Duration: 38s
+2026-03-07 15:40:35,880 | WARNING | No notification library available.
+2026-03-07 15:40:35,922 | WARNING | Bad posture alert triggered! Duration: 38s
+2026-03-07 15:40:35,925 | WARNING | No notification library available.
+2026-03-07 15:40:35,972 | WARNING | Bad posture alert triggered! Duration: 38s
+2026-03-07 15:40:35,975 | WARNING | No notification library available.
+2026-03-07 15:40:36,019 | WARNING | Bad posture alert triggered! Duration: 38s
+2026-03-07 15:40:36,022 | WARNING | No notification library available.
+2026-03-07 15:40:36,063 | WARNING | Bad posture alert triggered! Duration: 38s
+2026-03-07 15:40:36,070 | WARNING | No notification library available.
+2026-03-07 15:40:36,112 | WARNING | Bad posture alert triggered! Duration: 38s
+2026-03-07 15:40:36,115 | WARNING | No notification library available.
+2026-03-07 15:40:36,157 | WARNING | Bad posture alert triggered! Duration: 38s
+2026-03-07 15:40:36,160 | WARNING | No notification library available.
+2026-03-07 15:40:36,205 | WARNING | Bad posture alert triggered! Duration: 38s
+2026-03-07 15:40:36,207 | WARNING | No notification library available.
+2026-03-07 15:40:36,249 | WARNING | Bad posture alert triggered! Duration: 38s
+2026-03-07 15:40:36,252 | WARNING | No notification library available.
+2026-03-07 15:40:36,297 | WARNING | Bad posture alert triggered! Duration: 38s
+2026-03-07 15:40:36,301 | WARNING | No notification library available.
+2026-03-07 15:40:36,347 | WARNING | Bad posture alert triggered! Duration: 38s
+2026-03-07 15:40:36,351 | WARNING | No notification library available.
+2026-03-07 15:40:36,408 | WARNING | Bad posture alert triggered! Duration: 38s
+2026-03-07 15:40:36,410 | WARNING | No notification library available.
+2026-03-07 15:40:36,451 | WARNING | Bad posture alert triggered! Duration: 38s
+2026-03-07 15:40:36,455 | WARNING | No notification library available.
+2026-03-07 15:40:36,501 | WARNING | Bad posture alert triggered! Duration: 38s
+2026-03-07 15:40:36,505 | WARNING | No notification library available.
+2026-03-07 15:40:36,561 | WARNING | Bad posture alert triggered! Duration: 38s
+2026-03-07 15:40:36,565 | WARNING | No notification library available.
+2026-03-07 15:40:36,608 | WARNING | Bad posture alert triggered! Duration: 38s
+2026-03-07 15:40:36,611 | WARNING | No notification library available.
+2026-03-07 15:40:36,657 | WARNING | Bad posture alert triggered! Duration: 38s
+2026-03-07 15:40:36,662 | WARNING | No notification library available.
+2026-03-07 15:40:36,716 | WARNING | Bad posture alert triggered! Duration: 38s
+2026-03-07 15:40:36,719 | WARNING | No notification library available.
+2026-03-07 15:40:36,770 | WARNING | Bad posture alert triggered! Duration: 39s
+2026-03-07 15:40:36,773 | WARNING | No notification library available.
+2026-03-07 15:40:36,826 | WARNING | Bad posture alert triggered! Duration: 39s
+2026-03-07 15:40:36,830 | WARNING | No notification library available.
+2026-03-07 15:40:36,875 | WARNING | Bad posture alert triggered! Duration: 39s
+2026-03-07 15:40:36,878 | WARNING | No notification library available.
+2026-03-07 15:40:36,934 | WARNING | Bad posture alert triggered! Duration: 39s
+2026-03-07 15:40:36,937 | WARNING | No notification library available.
+2026-03-07 15:40:36,984 | WARNING | Bad posture alert triggered! Duration: 39s
+2026-03-07 15:40:36,987 | WARNING | No notification library available.
+2026-03-07 15:40:37,032 | WARNING | Bad posture alert triggered! Duration: 39s
+2026-03-07 15:40:37,036 | WARNING | No notification library available.
+2026-03-07 15:40:37,075 | WARNING | Bad posture alert triggered! Duration: 39s
+2026-03-07 15:40:37,078 | WARNING | No notification library available.
+2026-03-07 15:40:37,126 | WARNING | Bad posture alert triggered! Duration: 39s
+2026-03-07 15:40:37,130 | WARNING | No notification library available.
+2026-03-07 15:40:37,191 | WARNING | Bad posture alert triggered! Duration: 39s
+2026-03-07 15:40:37,194 | WARNING | No notification library available.
+2026-03-07 15:40:37,245 | WARNING | Bad posture alert triggered! Duration: 39s
+2026-03-07 15:40:37,249 | WARNING | No notification library available.
+2026-03-07 15:40:37,296 | WARNING | Bad posture alert triggered! Duration: 39s
+2026-03-07 15:40:37,300 | WARNING | No notification library available.
+2026-03-07 15:40:37,350 | WARNING | Bad posture alert triggered! Duration: 39s
+2026-03-07 15:40:37,353 | WARNING | No notification library available.
+2026-03-07 15:40:37,403 | WARNING | Bad posture alert triggered! Duration: 39s
+2026-03-07 15:40:37,406 | WARNING | No notification library available.
+2026-03-07 15:40:37,451 | WARNING | Bad posture alert triggered! Duration: 39s
+2026-03-07 15:40:37,453 | WARNING | No notification library available.
+2026-03-07 15:40:37,500 | WARNING | Bad posture alert triggered! Duration: 39s
+2026-03-07 15:40:37,504 | WARNING | No notification library available.
+2026-03-07 15:40:37,557 | WARNING | Bad posture alert triggered! Duration: 39s
+2026-03-07 15:40:37,561 | WARNING | No notification library available.
+2026-03-07 15:40:37,605 | WARNING | Bad posture alert triggered! Duration: 39s
+2026-03-07 15:40:37,608 | WARNING | No notification library available.
+2026-03-07 15:40:37,655 | WARNING | Bad posture alert triggered! Duration: 39s
+2026-03-07 15:40:37,658 | WARNING | No notification library available.
+2026-03-07 15:40:37,699 | WARNING | Bad posture alert triggered! Duration: 39s
+2026-03-07 15:40:37,702 | WARNING | No notification library available.
+2026-03-07 15:40:37,745 | WARNING | Bad posture alert triggered! Duration: 39s
+2026-03-07 15:40:37,748 | WARNING | No notification library available.
+2026-03-07 15:40:37,789 | WARNING | Bad posture alert triggered! Duration: 40s
+2026-03-07 15:40:37,793 | WARNING | No notification library available.
+2026-03-07 15:40:37,838 | WARNING | Bad posture alert triggered! Duration: 40s
+2026-03-07 15:40:37,841 | WARNING | No notification library available.
+2026-03-07 15:40:37,902 | WARNING | Bad posture alert triggered! Duration: 40s
+2026-03-07 15:40:37,906 | WARNING | No notification library available.
+2026-03-07 15:40:37,961 | WARNING | Bad posture alert triggered! Duration: 40s
+2026-03-07 15:40:37,965 | WARNING | No notification library available.
+2026-03-07 15:40:38,012 | WARNING | Bad posture alert triggered! Duration: 40s
+2026-03-07 15:40:38,016 | WARNING | No notification library available.
+2026-03-07 15:40:38,071 | WARNING | Bad posture alert triggered! Duration: 40s
+2026-03-07 15:40:38,075 | WARNING | No notification library available.
+2026-03-07 15:40:38,117 | WARNING | Bad posture alert triggered! Duration: 40s
+2026-03-07 15:40:38,120 | WARNING | No notification library available.
+2026-03-07 15:40:38,167 | WARNING | Bad posture alert triggered! Duration: 40s
+2026-03-07 15:40:38,173 | WARNING | No notification library available.
+2026-03-07 15:40:38,223 | WARNING | Bad posture alert triggered! Duration: 40s
+2026-03-07 15:40:38,226 | WARNING | No notification library available.
+2026-03-07 15:40:38,268 | WARNING | Bad posture alert triggered! Duration: 40s
+2026-03-07 15:40:38,272 | WARNING | No notification library available.
+2026-03-07 15:40:38,316 | WARNING | Bad posture alert triggered! Duration: 40s
+2026-03-07 15:40:38,319 | WARNING | No notification library available.
+2026-03-07 15:40:38,373 | WARNING | Bad posture alert triggered! Duration: 40s
+2026-03-07 15:40:38,376 | WARNING | No notification library available.
+2026-03-07 15:40:38,434 | WARNING | Bad posture alert triggered! Duration: 40s
+2026-03-07 15:40:38,437 | WARNING | No notification library available.
+2026-03-07 15:40:38,493 | WARNING | Bad posture alert triggered! Duration: 40s
+2026-03-07 15:40:38,496 | WARNING | No notification library available.
+2026-03-07 15:40:38,552 | WARNING | Bad posture alert triggered! Duration: 40s
+2026-03-07 15:40:38,555 | WARNING | No notification library available.
+2026-03-07 15:40:38,598 | WARNING | Bad posture alert triggered! Duration: 40s
+2026-03-07 15:40:38,603 | WARNING | No notification library available.
+2026-03-07 15:40:38,648 | WARNING | Bad posture alert triggered! Duration: 40s
+2026-03-07 15:40:38,651 | WARNING | No notification library available.
+2026-03-07 15:40:38,695 | WARNING | Bad posture alert triggered! Duration: 40s
+2026-03-07 15:40:38,698 | WARNING | No notification library available.
+2026-03-07 15:40:38,739 | WARNING | Bad posture alert triggered! Duration: 40s
+2026-03-07 15:40:38,743 | WARNING | No notification library available.
+2026-03-07 15:40:38,785 | WARNING | Bad posture alert triggered! Duration: 41s
+2026-03-07 15:40:38,788 | WARNING | No notification library available.
+2026-03-07 15:40:38,830 | WARNING | Bad posture alert triggered! Duration: 41s
+2026-03-07 15:40:38,836 | WARNING | No notification library available.
+2026-03-07 15:40:38,880 | WARNING | Bad posture alert triggered! Duration: 41s
+2026-03-07 15:40:38,883 | WARNING | No notification library available.
+2026-03-07 15:40:38,927 | WARNING | Bad posture alert triggered! Duration: 41s
+2026-03-07 15:40:38,932 | WARNING | No notification library available.
+2026-03-07 15:40:38,971 | WARNING | Bad posture alert triggered! Duration: 41s
+2026-03-07 15:40:38,974 | WARNING | No notification library available.
+2026-03-07 15:40:39,035 | WARNING | Bad posture alert triggered! Duration: 41s
+2026-03-07 15:40:39,037 | WARNING | No notification library available.
+2026-03-07 15:40:39,089 | WARNING | Bad posture alert triggered! Duration: 41s
+2026-03-07 15:40:39,092 | WARNING | No notification library available.
+2026-03-07 15:40:39,147 | WARNING | Bad posture alert triggered! Duration: 41s
+2026-03-07 15:40:39,151 | WARNING | No notification library available.
+2026-03-07 15:40:39,195 | WARNING | Bad posture alert triggered! Duration: 41s
+2026-03-07 15:40:39,199 | WARNING | No notification library available.
+2026-03-07 15:40:39,253 | WARNING | Bad posture alert triggered! Duration: 41s
+2026-03-07 15:40:39,256 | WARNING | No notification library available.
+2026-03-07 15:40:39,302 | WARNING | Bad posture alert triggered! Duration: 41s
+2026-03-07 15:40:39,305 | WARNING | No notification library available.
+2026-03-07 15:40:39,348 | WARNING | Bad posture alert triggered! Duration: 41s
+2026-03-07 15:40:39,352 | WARNING | No notification library available.
+2026-03-07 15:40:39,410 | WARNING | Bad posture alert triggered! Duration: 41s
+2026-03-07 15:40:39,414 | WARNING | No notification library available.
+2026-03-07 15:40:39,471 | WARNING | Bad posture alert triggered! Duration: 41s
+2026-03-07 15:40:39,474 | WARNING | No notification library available.
+2026-03-07 15:40:39,517 | WARNING | Bad posture alert triggered! Duration: 41s
+2026-03-07 15:40:39,520 | WARNING | No notification library available.
+2026-03-07 15:40:39,565 | WARNING | Bad posture alert triggered! Duration: 41s
+2026-03-07 15:40:39,569 | WARNING | No notification library available.
+2026-03-07 15:40:39,612 | WARNING | Bad posture alert triggered! Duration: 41s
+2026-03-07 15:40:39,616 | WARNING | No notification library available.
+2026-03-07 15:40:39,675 | WARNING | Bad posture alert triggered! Duration: 41s
+2026-03-07 15:40:39,678 | WARNING | No notification library available.
+2026-03-07 15:40:39,734 | WARNING | Bad posture alert triggered! Duration: 41s
+2026-03-07 15:40:39,737 | WARNING | No notification library available.
+2026-03-07 15:40:39,782 | WARNING | Bad posture alert triggered! Duration: 42s
+2026-03-07 15:40:39,785 | WARNING | No notification library available.
+2026-03-07 15:40:39,830 | WARNING | Bad posture alert triggered! Duration: 42s
+2026-03-07 15:40:39,835 | WARNING | No notification library available.
+2026-03-07 15:40:39,887 | WARNING | Bad posture alert triggered! Duration: 42s
+2026-03-07 15:40:39,891 | WARNING | No notification library available.
+2026-03-07 15:40:39,934 | WARNING | Bad posture alert triggered! Duration: 42s
+2026-03-07 15:40:39,937 | WARNING | No notification library available.
+2026-03-07 15:40:39,976 | WARNING | Bad posture alert triggered! Duration: 42s
+2026-03-07 15:40:39,980 | WARNING | No notification library available.
+2026-03-07 15:40:40,031 | WARNING | Bad posture alert triggered! Duration: 42s
+2026-03-07 15:40:40,035 | WARNING | No notification library available.
+2026-03-07 15:40:40,074 | WARNING | Bad posture alert triggered! Duration: 42s
+2026-03-07 15:40:40,077 | WARNING | No notification library available.
+2026-03-07 15:40:40,114 | WARNING | Bad posture alert triggered! Duration: 42s
+2026-03-07 15:40:40,117 | WARNING | No notification library available.
+2026-03-07 15:40:40,166 | WARNING | Bad posture alert triggered! Duration: 42s
+2026-03-07 15:40:40,170 | WARNING | No notification library available.
+2026-03-07 15:40:40,226 | WARNING | Bad posture alert triggered! Duration: 42s
+2026-03-07 15:40:40,229 | WARNING | No notification library available.
+2026-03-07 15:40:40,271 | WARNING | Bad posture alert triggered! Duration: 42s
+2026-03-07 15:40:40,274 | WARNING | No notification library available.
+2026-03-07 15:40:40,315 | WARNING | Bad posture alert triggered! Duration: 42s
+2026-03-07 15:40:40,320 | WARNING | No notification library available.
+2026-03-07 15:40:40,383 | WARNING | Bad posture alert triggered! Duration: 42s
+2026-03-07 15:40:40,387 | WARNING | No notification library available.
+2026-03-07 15:40:40,499 | WARNING | Bad posture alert triggered! Duration: 42s
+2026-03-07 15:40:40,504 | WARNING | No notification library available.
+2026-03-07 15:40:40,586 | WARNING | Bad posture alert triggered! Duration: 42s
+2026-03-07 15:40:40,589 | WARNING | No notification library available.
+2026-03-07 15:40:40,640 | WARNING | Bad posture alert triggered! Duration: 42s
+2026-03-07 15:40:40,643 | WARNING | No notification library available.
+2026-03-07 15:40:40,701 | WARNING | Bad posture alert triggered! Duration: 42s
+2026-03-07 15:40:40,704 | WARNING | No notification library available.
+2026-03-07 15:40:40,775 | WARNING | Bad posture alert triggered! Duration: 43s
+2026-03-07 15:40:40,778 | WARNING | No notification library available.
+2026-03-07 15:40:40,831 | WARNING | Bad posture alert triggered! Duration: 43s
+2026-03-07 15:40:40,836 | WARNING | No notification library available.
+2026-03-07 15:40:40,882 | WARNING | Bad posture alert triggered! Duration: 43s
+2026-03-07 15:40:40,887 | WARNING | No notification library available.
+2026-03-07 15:40:40,944 | WARNING | Bad posture alert triggered! Duration: 43s
+2026-03-07 15:40:40,947 | WARNING | No notification library available.
+2026-03-07 15:40:41,007 | WARNING | Bad posture alert triggered! Duration: 43s
+2026-03-07 15:40:41,011 | WARNING | No notification library available.
+2026-03-07 15:40:41,065 | WARNING | Bad posture alert triggered! Duration: 43s
+2026-03-07 15:40:41,070 | WARNING | No notification library available.
+2026-03-07 15:40:41,113 | WARNING | Bad posture alert triggered! Duration: 43s
+2026-03-07 15:40:41,118 | WARNING | No notification library available.
+2026-03-07 15:40:41,275 | WARNING | Bad posture alert triggered! Duration: 43s
+2026-03-07 15:40:41,277 | WARNING | No notification library available.
+2026-03-07 15:40:41,353 | WARNING | Bad posture alert triggered! Duration: 43s
+2026-03-07 15:40:41,356 | WARNING | No notification library available.
+2026-03-07 15:40:41,404 | WARNING | Bad posture alert triggered! Duration: 43s
+2026-03-07 15:40:41,406 | WARNING | No notification library available.
+2026-03-07 15:40:41,456 | WARNING | Bad posture alert triggered! Duration: 43s
+2026-03-07 15:40:41,460 | WARNING | No notification library available.
+2026-03-07 15:40:41,516 | WARNING | Bad posture alert triggered! Duration: 43s
+2026-03-07 15:40:41,519 | WARNING | No notification library available.
+2026-03-07 15:40:41,561 | WARNING | Bad posture alert triggered! Duration: 43s
+2026-03-07 15:40:41,565 | WARNING | No notification library available.
+2026-03-07 15:40:41,612 | WARNING | Bad posture alert triggered! Duration: 43s
+2026-03-07 15:40:41,616 | WARNING | No notification library available.
+2026-03-07 15:40:41,659 | WARNING | Bad posture alert triggered! Duration: 43s
+2026-03-07 15:40:41,663 | WARNING | No notification library available.
+2026-03-07 15:40:41,718 | WARNING | Bad posture alert triggered! Duration: 43s
+2026-03-07 15:40:41,720 | WARNING | No notification library available.
+2026-03-07 15:40:41,764 | WARNING | Bad posture alert triggered! Duration: 44s
+2026-03-07 15:40:41,767 | WARNING | No notification library available.
+2026-03-07 15:40:41,835 | WARNING | Bad posture alert triggered! Duration: 44s
+2026-03-07 15:40:41,838 | WARNING | No notification library available.
+2026-03-07 15:40:41,890 | WARNING | Bad posture alert triggered! Duration: 44s
+2026-03-07 15:40:41,893 | WARNING | No notification library available.
+2026-03-07 15:40:41,933 | WARNING | Bad posture alert triggered! Duration: 44s
+2026-03-07 15:40:41,937 | WARNING | No notification library available.
+2026-03-07 15:40:41,944 | INFO | User requested shutdown.
+2026-03-07 15:40:42,497 | INFO | System Shutdown Complete.
