@@ -4409,3 +4409,105 @@
 2026-03-07 18:16:17,020 | INFO | New user registered: demo (ID: 2)
 2026-03-07 18:16:41,320 | INFO | User logged in: demo (ID: 2)
 2026-03-07 18:16:41,320 | INFO | Login successful — user_id=2, name=demo
+2026-03-13 18:19:45,945 | INFO | Starting DeskGuardian Application...
+2026-03-13 18:20:18,947 | INFO | New user registered: guth (ID: 3)
+2026-03-13 18:20:27,781 | INFO | User logged in: guth (ID: 3)
+2026-03-13 18:20:27,785 | INFO | Login successful — user_id=3, name=guth
+2026-03-13 18:20:28,051 | INFO | Loaded existing burnout model from disk.
+2026-03-13 18:20:28,066 | ERROR | Webcam not available.
+2026-03-13 18:21:08,254 | INFO | Monitoring stopped.
+2026-03-13 18:21:08,276 | INFO | Monitoring stopped.
+2026-03-13 18:21:25,973 | INFO | User logged in: guth (ID: 3)
+2026-03-13 18:21:25,973 | INFO | Login successful — user_id=3, name=guth
+2026-03-13 18:21:55,134 | INFO | Starting DeskGuardian Application...
+2026-03-13 18:22:07,691 | INFO | User logged in: guth (ID: 3)
+2026-03-13 18:22:07,691 | INFO | Login successful — user_id=3, name=guth
+2026-03-13 18:23:47,515 | INFO | Starting DeskGuardian Application...
+2026-03-13 18:23:59,754 | INFO | User logged in: guth (ID: 3)
+2026-03-13 18:23:59,754 | INFO | Login successful — user_id=3, name=guth
+2026-03-13 18:25:30,376 | INFO | Starting DeskGuardian Application...
+2026-03-13 18:25:46,160 | INFO | New user registered: gerald (ID: 4)
+2026-03-13 18:26:05,993 | INFO | User logged in: gerald (ID: 4)
+2026-03-13 18:26:05,993 | INFO | Login successful — user_id=4, name=gerald
+2026-03-13 18:27:24,789 | INFO | Loaded existing burnout model from disk.
+2026-03-13 18:27:24,821 | INFO | Monitoring started.
+2026-03-13 18:28:24,907 | WARNING | Screen time alert! 1.0 minutes
+2026-03-13 18:28:24,911 | INFO | [ALERT] SCREEN TIME: You have been working for 1 minutes. Consider taking a break.
+2026-03-13 18:28:24,953 | INFO | Desktop notification shown: Screen Time Alert
+2026-03-13 18:28:24,987 | WARNING | [ALERT] BURNOUT HIGH RISK: High burnout risk detected (Probability: 100.0%). Please take immediate rest.
+2026-03-13 18:28:24,994 | INFO | Desktop notification shown: Burnout Risk Alert
+2026-03-13 18:28:46,337 | WARNING | [ALERT] NO USER DETECTED: No user detected for 15 seconds.
+2026-03-13 18:28:46,385 | INFO | Desktop notification shown: No User Detected
+2026-03-13 18:28:50,080 | INFO | [INFO] USER DETECTED: User detected. Resuming monitoring...
+2026-03-13 18:28:50,087 | INFO | Desktop notification shown: Monitoring Resumed
+2026-03-13 18:29:25,019 | WARNING | [ALERT] BURNOUT HIGH RISK: High burnout risk detected (Probability: 100.0%). Please take immediate rest.
+2026-03-13 18:29:25,019 | INFO | Desktop notification shown: Burnout Risk Alert
+2026-03-13 18:30:25,238 | WARNING | [ALERT] BURNOUT HIGH RISK: High burnout risk detected (Probability: 100.0%). Please take immediate rest.
+2026-03-13 18:30:25,278 | INFO | Desktop notification shown: Burnout Risk Alert
+2026-03-13 18:31:25,242 | WARNING | [ALERT] BURNOUT HIGH RISK: High burnout risk detected (Probability: 100.0%). Please take immediate rest.
+2026-03-13 18:31:25,244 | INFO | Desktop notification shown: Burnout Risk Alert
+2026-03-13 18:32:25,246 | WARNING | [ALERT] BURNOUT HIGH RISK: High burnout risk detected (Probability: 100.0%). Please take immediate rest.
+2026-03-13 18:32:25,261 | INFO | Desktop notification shown: Burnout Risk Alert
+2026-03-13 18:33:25,409 | WARNING | [ALERT] BURNOUT HIGH RISK: High burnout risk detected (Probability: 100.0%). Please take immediate rest.
+2026-03-13 18:33:25,462 | INFO | Desktop notification shown: Burnout Risk Alert
+2026-03-13 18:34:25,512 | WARNING | [ALERT] BURNOUT HIGH RISK: High burnout risk detected (Probability: 100.0%). Please take immediate rest.
+2026-03-13 18:34:25,564 | INFO | Desktop notification shown: Burnout Risk Alert
+2026-03-13 18:34:43,585 | INFO | Monitoring stopped.
+2026-03-13 18:34:43,631 | INFO | Monitoring stopped.
+2026-03-13 18:35:14,732 | INFO | User logged in: gerald (ID: 4)
+2026-03-13 18:35:14,732 | INFO | Login successful — user_id=4, name=gerald
+2026-03-13 18:38:13,464 | INFO | Loaded existing burnout model from disk.
+2026-03-13 18:38:13,502 | INFO | Monitoring started.
+2026-03-13 18:39:13,546 | WARNING | Screen time alert! 1.0 minutes
+2026-03-13 18:39:13,546 | INFO | [ALERT] SCREEN TIME: You have been working for 1 minutes. Consider taking a break.
+2026-03-13 18:39:13,582 | INFO | Desktop notification shown: Screen Time Alert
+2026-03-13 18:39:13,614 | WARNING | [ALERT] BURNOUT HIGH RISK: High burnout risk detected (Probability: 100.0%). Please take immediate rest.
+2026-03-13 18:39:13,620 | INFO | Desktop notification shown: Burnout Risk Alert
+2026-03-13 18:39:52,938 | WARNING | [ALERT] NO USER DETECTED: No user detected for 15 seconds.
+2026-03-13 18:39:52,944 | INFO | Desktop notification shown: No User Detected
+2026-03-13 18:39:53,076 | INFO | [INFO] USER DETECTED: User detected. Resuming monitoring...
+2026-03-13 18:39:53,084 | INFO | Desktop notification shown: Monitoring Resumed
+2026-03-13 18:40:13,618 | WARNING | [ALERT] BURNOUT HIGH RISK: High burnout risk detected (Probability: 100.0%). Please take immediate rest.
+2026-03-13 18:40:13,625 | INFO | Desktop notification shown: Burnout Risk Alert
+2026-03-13 18:40:43,709 | WARNING | [ALERT] NO USER DETECTED: No user detected for 15 seconds.
+2026-03-13 18:40:43,714 | INFO | Desktop notification shown: No User Detected
+2026-03-13 18:41:11,629 | INFO | [INFO] USER DETECTED: User detected. Resuming monitoring...
+2026-03-13 18:41:11,649 | INFO | Desktop notification shown: Monitoring Resumed
+2026-03-13 18:41:13,671 | WARNING | [ALERT] BURNOUT HIGH RISK: High burnout risk detected (Probability: 100.0%). Please take immediate rest.
+2026-03-13 18:41:13,675 | INFO | Desktop notification shown: Burnout Risk Alert
+2026-03-13 18:42:13,701 | WARNING | [ALERT] BURNOUT HIGH RISK: High burnout risk detected (Probability: 100.0%). Please take immediate rest.
+2026-03-13 18:42:13,715 | INFO | Desktop notification shown: Burnout Risk Alert
+2026-03-13 18:42:53,357 | INFO | Monitoring stopped.
+2026-03-13 18:42:53,391 | INFO | Monitoring stopped.
+2026-03-13 18:57:33,500 | INFO | Starting DeskGuardian Application...
+2026-03-13 18:58:42,178 | INFO | User logged in: gerald (ID: 4)
+2026-03-13 18:58:42,179 | INFO | Login successful — user_id=4, name=gerald
+2026-03-13 19:01:50,265 | INFO | Loaded existing burnout model from disk.
+2026-03-13 19:01:50,304 | INFO | Monitoring started.
+2026-03-13 19:02:50,333 | WARNING | Screen time alert! 1.0 minutes
+2026-03-13 19:02:50,334 | INFO | [ALERT] SCREEN TIME: You have been working for 1 minutes. Consider taking a break.
+2026-03-13 19:02:50,374 | INFO | Desktop notification shown: Screen Time Alert
+2026-03-13 19:02:50,423 | WARNING | [ALERT] BURNOUT HIGH RISK: High burnout risk detected (Probability: 100.0%). Please take immediate rest.
+2026-03-13 19:02:50,454 | INFO | Desktop notification shown: Burnout Risk Alert
+2026-03-13 19:03:50,440 | WARNING | [ALERT] BURNOUT HIGH RISK: High burnout risk detected (Probability: 100.0%). Please take immediate rest.
+2026-03-13 19:03:50,449 | INFO | Desktop notification shown: Burnout Risk Alert
+2026-03-13 19:04:27,261 | WARNING | [ALERT] NO USER DETECTED: No user detected for 15 seconds.
+2026-03-13 19:04:27,280 | INFO | Desktop notification shown: No User Detected
+2026-03-13 19:04:34,899 | INFO | [INFO] USER DETECTED: User detected. Resuming monitoring...
+2026-03-13 19:04:34,964 | INFO | Desktop notification shown: Monitoring Resumed
+2026-03-13 19:04:50,610 | WARNING | [ALERT] BURNOUT HIGH RISK: High burnout risk detected (Probability: 100.0%). Please take immediate rest.
+2026-03-13 19:04:50,647 | INFO | Desktop notification shown: Burnout Risk Alert
+2026-03-13 19:05:43,248 | WARNING | [ALERT] NO USER DETECTED: No user detected for 15 seconds.
+2026-03-13 19:05:43,264 | INFO | Desktop notification shown: No User Detected
+2026-03-13 19:05:48,372 | INFO | [INFO] USER DETECTED: User detected. Resuming monitoring...
+2026-03-13 19:05:48,377 | INFO | Desktop notification shown: Monitoring Resumed
+2026-03-13 19:05:50,633 | WARNING | [ALERT] BURNOUT HIGH RISK: High burnout risk detected (Probability: 100.0%). Please take immediate rest.
+2026-03-13 19:05:50,642 | INFO | Desktop notification shown: Burnout Risk Alert
+2026-03-13 19:06:19,964 | WARNING | [ALERT] NO USER DETECTED: No user detected for 15 seconds.
+2026-03-13 19:06:19,980 | INFO | Desktop notification shown: No User Detected
+2026-03-13 19:06:22,810 | INFO | [INFO] USER DETECTED: User detected. Resuming monitoring...
+2026-03-13 19:06:22,814 | INFO | Desktop notification shown: Monitoring Resumed
+2026-03-13 19:06:50,810 | WARNING | [ALERT] BURNOUT HIGH RISK: High burnout risk detected (Probability: 100.0%). Please take immediate rest.
+2026-03-13 19:06:50,823 | INFO | Desktop notification shown: Burnout Risk Alert
+2026-03-13 19:07:15,526 | INFO | Monitoring stopped.
+2026-03-13 19:07:15,579 | INFO | Monitoring stopped.

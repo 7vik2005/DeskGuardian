@@ -41,3 +41,6 @@ htmlcov/
 # Model files (if too large)
 *.pkl
 *.joblib
+
+reports/
+pytest.ini
