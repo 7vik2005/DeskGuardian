@@ -4511,3 +4511,27 @@
 2026-03-13 19:06:50,823 | INFO | Desktop notification shown: Burnout Risk Alert
 2026-03-13 19:07:15,526 | INFO | Monitoring stopped.
 2026-03-13 19:07:15,579 | INFO | Monitoring stopped.
+2026-03-13 21:43:40,230 | INFO | Starting DeskGuardian Application...
+2026-03-13 21:43:48,016 | INFO | User logged in: admin (ID: 1)
+2026-03-13 21:43:48,016 | INFO | Login successful — user_id=1, name=admin
+2026-03-13 21:43:48,669 | INFO | Trained model with coefficients: [[ 1.11805844  0.96585938 -0.92501028]]
+2026-03-13 21:43:48,675 | INFO | Trained and saved new burnout model.
+2026-03-13 21:43:48,696 | INFO | Monitoring started.
+2026-03-13 21:44:17,857 | INFO | Monitoring stopped.
+2026-03-13 21:44:17,891 | INFO | Monitoring stopped.
+2026-03-13 21:44:30,766 | INFO | User logged in: admin (ID: 1)
+2026-03-13 21:44:30,766 | INFO | Login successful — user_id=1, name=admin
+2026-03-13 21:44:31,066 | INFO | Loaded existing burnout model from disk.
+2026-03-13 21:44:31,079 | INFO | Monitoring started.
+2026-03-13 21:44:38,779 | INFO | Monitoring stopped.
+2026-03-13 21:44:38,817 | INFO | Monitoring stopped.
+2026-03-13 21:45:20,715 | INFO | Starting DeskGuardian Application...
+2026-03-27 16:47:59,762 | INFO | Starting DeskGuardian Application...
+2026-03-27 16:48:07,665 | INFO | User logged in: admin (ID: 1)
+2026-03-27 16:48:07,665 | INFO | Login successful — user_id=1, name=admin
+2026-03-27 16:48:07,997 | INFO | Loaded existing burnout model from disk.
+2026-03-27 16:48:08,014 | INFO | Monitoring started.
+2026-03-27 16:49:08,032 | WARNING | Screen time alert! 1.0 minutes
+2026-03-27 16:49:08,032 | INFO | [ALERT] SCREEN TIME: You have been working for 1 minutes. Consider taking a break.
+2026-03-27 16:49:08,049 | INFO | Desktop notification shown: Screen Time Alert
+2026-03-27 16:49:20,312 | INFO | Monitoring stopped.

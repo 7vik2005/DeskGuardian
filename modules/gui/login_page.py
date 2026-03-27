@@ -18,30 +18,32 @@ class LoginSignupPage(QWidget):
         self.auth = AuthService()
 
         self.setWindowTitle("DeskGuardian - Welcome")
-        self.setFixedSize(600, 560)
+        self.setFixedSize(500, 680)
         self.setStyleSheet(self._stylesheet())
 
         self.stack = QStackedWidget()
 
         root = QVBoxLayout(self)
         root.setAlignment(Qt.AlignCenter)
+        root.setContentsMargins(40, 24, 40, 24)
 
         header = QLabel("DeskGuardian")
         header.setAlignment(Qt.AlignCenter)
         header.setFont(QFont("Segoe UI", 26, QFont.Bold))
         header.setObjectName("mainHeader")
 
-        subtitle = QLabel("Secure your workspace")
+        subtitle = QLabel("Your personal posture guardian")
         subtitle.setAlignment(Qt.AlignCenter)
         subtitle.setObjectName("subtitle")
 
         root.addWidget(header)
         root.addWidget(subtitle)
 
-        root.addSpacing(20)
+        root.addSpacing(14)
 
         self.card = QFrame()
         self.card.setObjectName("card")
+        self.card.setFixedWidth(410)
 
         shadow = QGraphicsDropShadowEffect()
         shadow.setBlurRadius(30)
@@ -50,7 +52,7 @@ class LoginSignupPage(QWidget):
         self.card.setGraphicsEffect(shadow)
 
         card_layout = QVBoxLayout(self.card)
-        card_layout.setContentsMargins(50, 40, 50, 40)
+        card_layout.setContentsMargins(32, 24, 32, 24)
 
         self.stack.addWidget(self._build_login_page())
         self.stack.addWidget(self._build_signup_page())
@@ -64,7 +66,7 @@ class LoginSignupPage(QWidget):
     def _build_login_page(self):
         page = QFrame()
         layout = QVBoxLayout(page)
-        layout.setSpacing(16)
+        layout.setSpacing(4)
 
         title = QLabel("Login")
         title.setObjectName("title")
@@ -89,7 +91,7 @@ class LoginSignupPage(QWidget):
         login_btn.clicked.connect(self._on_login)
         layout.addWidget(login_btn)
 
-        layout.addSpacing(10)
+        layout.addSpacing(8)
 
         switch_label = QLabel("Don't have an account?")
         switch_label.setAlignment(Qt.AlignCenter)
@@ -108,7 +110,7 @@ class LoginSignupPage(QWidget):
     def _build_signup_page(self):
         page = QFrame()
         layout = QVBoxLayout(page)
-        layout.setSpacing(16)
+        layout.setSpacing(10)
 
         title = QLabel("Create Account")
         title.setObjectName("title")
@@ -139,7 +141,7 @@ class LoginSignupPage(QWidget):
         signup_btn.clicked.connect(self._on_signup)
         layout.addWidget(signup_btn)
 
-        layout.addSpacing(10)
+        layout.addSpacing(6)
 
         switch_label = QLabel("Already have an account?")
         switch_label.setAlignment(Qt.AlignCenter)
@@ -235,12 +237,14 @@ class LoginSignupPage(QWidget):
         #title {
             font-size: 18px;
             font-weight: bold;
-            margin-bottom: 10px;
+            margin-bottom: 6px;
         }
 
         #fieldLabel {
             color: #555;
             font-size: 11px;
+            margin-top: 8px;
+            margin-bottom: 0px;
         }
 
         QLineEdit {
@@ -256,7 +260,7 @@ class LoginSignupPage(QWidget):
         }
 
         QPushButton {
-            padding: 11px;
+            padding: 10px;
             background: #3b82f6;
             color: white;
             border-radius: 6px;
