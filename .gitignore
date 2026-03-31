@@ -1,46 +1,75 @@
-# Virtual Environment
-venv/
-env/
-ENV/
-
-# Python Cache
+# ===========================
+# Python
+# ===========================
 __pycache__/
 *.py[cod]
 *$py.class
 *.so
 .Python
+*.egg-info/
+*.egg
 
-# Database
-data/deskguardian.db
-data/deskguardian.log
+# ===========================
+# Virtual Environment
+# ===========================
+venv/
+env/
+ENV/
+.venv/
 
-# IDE
+# ===========================
+# PyInstaller Build Artifacts
+# ===========================
+build/
+dist/
+*.spec
+
+# ===========================
+# IDE / Editor
+# ===========================
 .vscode/
 .idea/
 *.swp
 *.swo
 *~
+.project
+.settings/
 
-# OS
+# ===========================
+# OS Generated
+# ===========================
 .DS_Store
 Thumbs.db
+desktop.ini
+ehthumbs.db
 
-# Distribution
-dist/
-build/
-*.egg-info/
+# ===========================
+# Runtime Data (generated at runtime)
+# ===========================
+data/deskguardian.db
+data/deskguardian.log
+*.log
 
+# ===========================
 # Testing
+# ===========================
 .pytest_cache/
 .coverage
 htmlcov/
+.tox/
 
-# Logs (keep only code)
-*.log
+# ===========================
+# Deprecated Reference Docs
+# ===========================
+depreciated/
 
-# Model files (if too large)
-*.pkl
-*.joblib
+# ===========================
+# Gemini / AI Agent
+# ===========================
+.gemini/
+.agents/
 
+# ===========================
+# Misc
+# ===========================
 reports/
-pytest.ini
